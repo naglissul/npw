@@ -29,10 +29,11 @@ class MarkdownToHtmlPlugin {
           } else {
             // Generate the navigation links
             markdownFiles.forEach((file) => {
-              const relativePath = path.relative(contentPath, file);
-              const filename = relativePath.replace(/\.md$/, ".html");
-              const link = `<li><a href="${filename}">${filename}</a></li>`;
-              links.push(link);
+              const filename = path.basename(file, ".md") + ".html";
+              if (filename !== "index.html") {
+                const link = `<li><a href="/${filename}">${filename}</a></li>`;
+                links.push(link);
+              }
             });
 
             // Generate the navigation HTML
@@ -43,8 +44,7 @@ class MarkdownToHtmlPlugin {
             markdownFiles.forEach((file) => {
               const markdownContent = fs.readFileSync(file, "utf-8");
               const htmlContent = marked(markdownContent);
-              const relativePath = path.relative(contentPath, file);
-              const filename = relativePath.replace(/\.md$/, ".html");
+              const filename = path.basename(file, ".md") + ".html";
 
               console.log(`Generating HTML for: ${file} -> ${filename}`);
 
@@ -67,26 +67,38 @@ class MarkdownToHtmlPlugin {
               };
             });
 
-            // Generate the index.html with the navigation links only
-            const indexTemplatePath = path.resolve(
-              __dirname,
-              "src/template.html"
-            );
-            const indexTemplateContent = fs.readFileSync(
-              indexTemplatePath,
-              "utf-8"
-            );
-            const modifiedIndexTemplateContent = indexTemplateContent
-              .replace(
-                "<!-- Links to the generated pages will go here -->",
-                navHtml
-              )
-              .replace("<!-- MARKDOWN CONTENT WILL BE INJECTED HERE -->", "");
+            // Generate the index.html with the content from index.md
+            const indexMarkdownPath = path.resolve(contentPath, "index.md");
+            if (fs.existsSync(indexMarkdownPath)) {
+              const indexMarkdownContent = fs.readFileSync(
+                indexMarkdownPath,
+                "utf-8"
+              );
+              const indexHtmlContent = marked(indexMarkdownContent);
 
-            assets["index.html"] = {
-              source: () => modifiedIndexTemplateContent,
-              size: () => modifiedIndexTemplateContent.length,
-            };
+              const indexTemplatePath = path.resolve(
+                __dirname,
+                "src/template.html"
+              );
+              const indexTemplateContent = fs.readFileSync(
+                indexTemplatePath,
+                "utf-8"
+              );
+              const modifiedIndexTemplateContent = indexTemplateContent
+                .replace(
+                  "<!-- Links to the generated pages will go here -->",
+                  navHtml
+                )
+                .replace(
+                  "<!-- MARKDOWN CONTENT WILL BE INJECTED HERE -->",
+                  indexHtmlContent
+                );
+
+              assets["index.html"] = {
+                source: () => modifiedIndexTemplateContent,
+                size: () => modifiedIndexTemplateContent.length,
+              };
+            }
           }
 
           callback();
@@ -102,12 +114,28 @@ module.exports = {
   output: {
     filename: "bundle.js",
     path: path.resolve(__dirname, "dist"),
+    publicPath: "/",
   },
   module: {
     rules: [
       {
         test: /\.md$/,
         use: "file-loader",
+      },
+      {
+        test: /\.css$/,
+        use: ["style-loader", "css-loader"],
+      },
+      {
+        test: /\.(png|svg|jpg|jpeg|gif)$/i,
+        type: "asset/resource",
+      },
+      {
+        test: /logo\.png$/,
+        type: "asset/resource",
+        generator: {
+          filename: "logo.png",
+        },
       },
     ],
   },
