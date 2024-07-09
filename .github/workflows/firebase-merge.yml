@@ -17,4 +17,4 @@ jobs:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_NPW_LT }}
           channelId: live
-          projectId: bankas-skafis
+          projectId: npw-lt-8f4e9
