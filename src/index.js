@@ -1,3 +1,13 @@
-import "./style.css";
 import "./logo.png";
-console.log("Webpack is working!");
+import "./style.css";
+
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll(".folder-btn").forEach((button) => {
+    button.addEventListener("click", () => {
+      const siblingUl = button.nextElementSibling;
+      if (siblingUl) {
+        siblingUl.classList.toggle("visible");
+      }
+    });
+  });
+});

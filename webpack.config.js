@@ -22,22 +22,43 @@ class MarkdownToHtmlPlugin {
           const markdownFiles = glob.sync(path.join(contentPath, "**/*.md"));
           console.log("Found markdown files:", markdownFiles);
 
-          const links = [];
+          const structure = {};
 
           if (markdownFiles.length === 0) {
             console.warn("No markdown files found.");
           } else {
-            // Generate the navigation links
+            // Generate the file structure
             markdownFiles.forEach((file) => {
-              const filename = path.basename(file, ".md") + ".html";
-              if (filename !== "index.html") {
-                const link = `<li><a href="/${filename}">${filename}</a></li>`;
-                links.push(link);
-              }
+              const relativePath = path.relative(contentPath, file);
+              const parts = relativePath.split(path.sep);
+              let currentLevel = structure;
+
+              parts.forEach((part, index) => {
+                if (index === parts.length - 1) {
+                  currentLevel[part] = path.basename(part, ".md") + ".html";
+                } else {
+                  currentLevel[part] = currentLevel[part] || {};
+                  currentLevel = currentLevel[part];
+                }
+              });
             });
 
-            // Generate the navigation HTML
-            const navHtml = `<ul>${links.join("")}</ul>`;
+            const generateNavHtml = (structure, isRoot = false) => {
+              let html = "<ul>";
+              for (const key in structure) {
+                if (typeof structure[key] === "string") {
+                  html += `<li><a href="/${structure[key]}">${key}</a></li>`;
+                } else {
+                  html += `<li><button class="folder-btn">${key}</button>${generateNavHtml(
+                    structure[key]
+                  )}</li>`;
+                }
+              }
+              html += "</ul>";
+              return html;
+            };
+
+            const navHtml = generateNavHtml(structure, true);
             console.log("Generated navigation HTML:", navHtml);
 
             // Generate each HTML file with the navigation links and content
