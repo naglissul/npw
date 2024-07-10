@@ -33,12 +33,6 @@ aside {
   margin: 1em;
 }
 
-@media screen and (max-width: 768px) {
-  aside {
-    display: none;
-  }
-}
-
 .logo {
   display: flex;
   align-items: center;
@@ -146,4 +140,18 @@ footer p {
 #cookies {
   text-align: center;
   font-size: smaller;
+}
+
+@media screen and (max-width: 768px) {
+  aside {
+    display: none;
+  }
+
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+  }
 }
