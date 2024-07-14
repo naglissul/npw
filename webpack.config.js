@@ -35,7 +35,9 @@ class MarkdownToHtmlPlugin {
 
               parts.forEach((part, index) => {
                 if (index === parts.length - 1) {
-                  currentLevel[part] = path.basename(part, ".md") + ".html";
+                  currentLevel[part] = relativePath
+                    .replace(/\\/g, "/")
+                    .replace(".md", ".html");
                 } else {
                   currentLevel[part] = currentLevel[part] || {};
                   currentLevel = currentLevel[part];
@@ -43,14 +45,17 @@ class MarkdownToHtmlPlugin {
               });
             });
 
-            const generateNavHtml = (structure, isRoot = false) => {
+            const generateNavHtml = (structure, basePath = "") => {
               let html = "<ul>";
               for (const key in structure) {
                 if (typeof structure[key] === "string") {
-                  html += `<li><a href="/${structure[key]}">${key}</a></li>`;
+                  const link = `/${structure[key]}`;
+                  html += `<li><a href="${link}">${key}</a></li>`;
                 } else {
+                  const folderPath = basePath ? `${basePath}/${key}` : `${key}`;
                   html += `<li><button class="folder-btn">${key}</button>${generateNavHtml(
-                    structure[key]
+                    structure[key],
+                    folderPath
                   )}</li>`;
                 }
               }
@@ -58,14 +63,17 @@ class MarkdownToHtmlPlugin {
               return html;
             };
 
-            const navHtml = generateNavHtml(structure, true);
+            const navHtml = generateNavHtml(structure);
             console.log("Generated navigation HTML:", navHtml);
 
             // Generate each HTML file with the navigation links and content
             markdownFiles.forEach((file) => {
               const markdownContent = fs.readFileSync(file, "utf-8");
               const htmlContent = marked(markdownContent);
-              const filename = path.basename(file, ".md") + ".html";
+              const relativePath = path.relative(contentPath, file);
+              const filename = relativePath
+                .replace(/\\/g, "/")
+                .replace(".md", ".html");
 
               console.log(`Generating HTML for: ${file} -> ${filename}`);
 
