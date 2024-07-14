@@ -68,12 +68,14 @@ class MarkdownToHtmlPlugin {
 
             // Generate each HTML file with the navigation links and content
             markdownFiles.forEach((file) => {
-              const markdownContent = fs.readFileSync(file, "utf-8");
-              const htmlContent = marked(markdownContent);
+              let markdownContent = fs.readFileSync(file, "utf-8");
               const relativePath = path.relative(contentPath, file);
+              const dirname = path.dirname(relativePath);
               const filename = relativePath
                 .replace(/\\/g, "/")
                 .replace(".md", ".html");
+
+              const htmlContent = marked(markdownContent);
 
               console.log(`Generating HTML for: ${file} -> ${filename}`);
 

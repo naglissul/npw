@@ -133,7 +133,7 @@ nav ul li button:hover {
 .footer-logo {
   display: flex;
   align-items: center;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   flex-wrap: wrap;
 }
 
@@ -180,4 +180,23 @@ footer p {
     display: flex;
     flex-direction: column;
   }
+}
+
+/* generics */
+h1 {
+  font-size: 36px;
+  text-align: center;
+}
+
+/* components */
+.text-center {
+  text-align: center;
+}
+
+.box {
+  background-color: #f4f4f4;
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid black;
+  text-align: center;
 }
