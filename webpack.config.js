@@ -160,12 +160,8 @@ module.exports = {
       {
         test: /\.(png|svg|jpg|jpeg|gif)$/i,
         type: "asset/resource",
-      },
-      {
-        test: /logo\.png$/,
-        type: "asset/resource",
         generator: {
-          filename: "logo.png",
+          filename: "assets/[hash][ext][query]",
         },
       },
     ],

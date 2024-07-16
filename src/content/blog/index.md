@@ -1,3 +1,5 @@
 # Blog
 
-Here are some blog posts. Lekker lezing! <sub>NL</sub>
+This is the root page for blog posts. For now you can just go through the posts in the nav. 
+
+Lekker lezing! <sub>NL</sub>
