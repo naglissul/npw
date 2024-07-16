@@ -9,7 +9,6 @@ function importAll(r) {
   return images;
 }
 
-// Import all images and get the mapping of original paths to hashed paths
 const images = importAll(
   require.context("./assets", false, /\.(png|jpe?g|svg)$/)
 );
@@ -17,6 +16,18 @@ const images = importAll(
 console.log("Images:", images);
 
 document.addEventListener("DOMContentLoaded", () => {
+  // Some sketchy image src replacement after the webpack messed up with all the hashing paths...
+
+  document.querySelectorAll("img").forEach((img) => {
+    const src = img.getAttribute("src");
+    const alt = img.getAttribute("alt");
+    const child = document.createElement("img");
+    child.src = src.substring(0, src.lastIndexOf("/")).replace("/../assets", "") + images[src.split("/").pop()];
+    child.alt = alt;
+    img.insertAdjacentElement("afterend", child);
+    img.remove();
+  });
+
   document.querySelectorAll(".folder-btn").forEach((button) => {
     button.addEventListener("click", () => {
       const siblingUl = button.nextElementSibling;
