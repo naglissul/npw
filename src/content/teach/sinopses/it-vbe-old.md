@@ -4,6 +4,8 @@ createdAt: 2021-06-10
 
 Senos programos (iki 2023 m.) informatikos VBE struktūros šablonas/konspektas.
 
+Gražesnis šio puslapio informacijos formatavimas [čia, GitHub'e](https://github.com/naglissul/npw/blob/main/src/content/teach/sinopses/it-vbe-old.md).
+
 ## KLAUSIMAI
 
 ### Autoriaus teisės
