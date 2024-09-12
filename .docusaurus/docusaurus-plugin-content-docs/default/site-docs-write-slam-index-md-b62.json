@@ -1,0 +1,23 @@
+{
+  "id": "write/slam/index",
+  "title": "Slam",
+  "description": "All the texts that I read in the Vilnius bar PERONAS slams from 2021 autumn to 2023 autumn.",
+  "source": "@site/docs/write/slam/index.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/",
+  "permalink": "/docs/write/slam/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trumpi sapnai",
+    "permalink": "/docs/write/short-dreams"
+  },
+  "next": {
+    "title": "Pirmasis sniegas <sub>LT</sub>",
+    "permalink": "/docs/write/the-first-snow"
+  }
+}

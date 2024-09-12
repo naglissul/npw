@@ -1,0 +1,23 @@
+{
+  "id": "write/short-dreams",
+  "title": "Trumpi sapnai",
+  "description": "Cover",
+  "source": "@site/docs/write/short-dreams.md",
+  "sourceDirName": "write",
+  "slug": "/write/short-dreams",
+  "permalink": "/docs/write/short-dreams",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kitos Sniego dalys",
+    "permalink": "/docs/write/other-snow"
+  },
+  "next": {
+    "title": "Slam",
+    "permalink": "/docs/write/slam/"
+  }
+}

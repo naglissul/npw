@@ -1,0 +1,23 @@
+{
+  "id": "write/the-last-year-snow",
+  "title": "Pernykštis sniegas",
+  "description": "Čia bus patalpinta informacija apie romaną \"Pernykštis sniegas\".",
+  "source": "@site/docs/write/the-last-year-snow.md",
+  "sourceDirName": "write",
+  "slug": "/write/the-last-year-snow",
+  "permalink": "/docs/write/the-last-year-snow",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pirmasis sniegas <sub>LT</sub>",
+    "permalink": "/docs/write/the-first-snow"
+  },
+  "next": {
+    "title": "Teach",
+    "permalink": "/docs/teach/"
+  }
+}

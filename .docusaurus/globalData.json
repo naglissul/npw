@@ -51,13 +51,38 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "write/deafening-night",
+              "path": "/docs/write/deafening-night",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "write/index",
               "path": "/docs/write/",
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "write/other-snow",
+              "path": "/docs/write/other-snow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/short-dreams",
+              "path": "/docs/write/short-dreams",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/slam/index",
+              "path": "/docs/write/slam/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "write/the-first-snow",
               "path": "/docs/write/the-first-snow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/the-last-year-snow",
+              "path": "/docs/write/the-last-year-snow",
               "sidebar": "tutorialSidebar"
             }
           ],

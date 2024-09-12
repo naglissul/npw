@@ -1,0 +1,23 @@
+{
+  "id": "write/deafening-night",
+  "title": "Kurtinančiai tyli naktis arba Ką padarysi...",
+  "description": "cover",
+  "source": "@site/docs/write/deafening-night.md",
+  "sourceDirName": "write",
+  "slug": "/write/deafening-night",
+  "permalink": "/docs/write/deafening-night",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rašymas <sub>LT+EN</sub>",
+    "permalink": "/docs/write/"
+  },
+  "next": {
+    "title": "Kitos Sniego dalys",
+    "permalink": "/docs/write/other-snow"
+  }
+}

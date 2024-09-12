@@ -1,0 +1,23 @@
+{
+  "id": "write/other-snow",
+  "title": "Kitos Sniego dalys",
+  "description": "Čia bus talpinama informacija apie kitas \"Sniego\" dalis.",
+  "source": "@site/docs/write/other-snow.md",
+  "sourceDirName": "write",
+  "slug": "/write/other-snow",
+  "permalink": "/docs/write/other-snow",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kurtinančiai tyli naktis arba Ką padarysi...",
+    "permalink": "/docs/write/deafening-night"
+  },
+  "next": {
+    "title": "Trumpi sapnai",
+    "permalink": "/docs/write/short-dreams"
+  }
+}

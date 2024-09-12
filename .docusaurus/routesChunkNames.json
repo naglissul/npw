@@ -1,125 +1,188 @@
 {
-  "/blog-e6c": {
-    "__comp": "a6aa9e1f",
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "a8244c1e"
-      }
-    ],
-    "__props": "c15d9823"
-  },
-  "/blog/archive-182": {
-    "__comp": "9e4087bc",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "__props": "f81c1134"
-  },
-  "/blog/authors-0b7": {
-    "__comp": "621db11d",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "__props": "ef8b811a"
-  },
-  "/blog/on-teaching-0c8": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "53835a45"
-  },
-  "/blog/tags-287": {
-    "__comp": "01a85c17",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "__props": "3a2db09e"
-  },
-  "/blog/tags/general-5c4": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "a8244c1e"
-      }
-    ],
-    "__props": "3c1ba59f"
-  },
-  "/docs-b9a": {
-    "__comp": "5e95c892",
-    "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/docs-5ba": {
-    "__comp": "a7bd4aaa",
-    "__props": "0058b4c6"
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
   },
-  "/docs-b99": {
-    "__comp": "a94703ab"
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/blog-e6c": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---bloga-82-feb"
+      }
+    ],
+    "__props": "__props---blogc-15-573"
+  },
+  "/blog/archive-182": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "__props": "__props---blog-archivef-81-229"
+  },
+  "/blog/authors-0b7": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-authorsef-8-44f"
+  },
+  "/blog/on-teaching-0c8": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-on-teaching-538-505"
+  },
+  "/blog/tags-287": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-tags-3-a-2-fa2"
+  },
+  "/blog/tags/general-5c4": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---bloga-82-feb"
+      }
+    ],
+    "__props": "__props---blog-tags-general-3-c-1-f2b"
+  },
+  "/docs-c8c": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-88f": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-7c5": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/code/-1dc": {
-    "__comp": "17896441",
-    "content": "3904238f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-code-390-71b"
   },
   "/docs/music/-a5a": {
-    "__comp": "17896441",
-    "content": "273f2d05"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-music-273-824"
   },
   "/docs/teach/-ce2": {
-    "__comp": "17896441",
-    "content": "ded7c7eb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teach-ded-ce5"
   },
   "/docs/teach/cheatsheets/-fb6": {
-    "__comp": "17896441",
-    "content": "0aa6751e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teach-cheatsheets-0-aa-9b8"
   },
   "/docs/teach/cheatsheets/it-vbe-old-9f1": {
-    "__comp": "17896441",
-    "content": "113d28ad"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teach-cheatsheets-it-vbe-old-113-85d"
   },
   "/docs/teach/science-can-be-interesting-bc8": {
-    "__comp": "17896441",
-    "content": "952c4435"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teach-science-can-be-interesting-952-f02"
   },
   "/docs/teach/the-science-guild-e50": {
-    "__comp": "17896441",
-    "content": "3306aa32"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teach-the-science-guild-330-f2b"
   },
   "/docs/teach/tutor-d7b": {
-    "__comp": "17896441",
-    "content": "e6e5334a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teach-tutore-6-e-de5"
   },
   "/docs/write/-8cc": {
-    "__comp": "17896441",
-    "content": "fd79bb3e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-write-fd-7-5eb"
+  },
+  "/docs/write/deafening-night-dad": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-write-deafening-night-64-a-5f1"
+  },
+  "/docs/write/other-snow-3cf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-write-other-snow-17-a-bd4"
+  },
+  "/docs/write/short-dreams-717": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-write-short-dreams-80-b-140"
+  },
+  "/docs/write/slam/-5fb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-write-slam-b-62-5d3"
   },
   "/docs/write/the-first-snow-09f": {
-    "__comp": "17896441",
-    "content": "c529cb71"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-write-the-first-snowc-52-d8e"
+  },
+  "/docs/write/the-last-year-snow-1ab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-write-the-last-year-snow-340-821"
   },
   "/-2bc": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---a-74-9d6"
     },
-    "content": "f3976560"
+    "content": "content---f-39-267"
   }
 }
