@@ -1,0 +1,21 @@
+{
+  "permalink": "/blog/24",
+  "source": "@site/blog/24.md",
+  "title": "24",
+  "description": "date: 2023-02-18",
+  "date": "2024-09-12T23:25:01.004Z",
+  "tags": [],
+  "readingTime": 3.545,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {},
+  "unlisted": false,
+  "prevItem": {
+    "title": "25",
+    "permalink": "/blog/25"
+  },
+  "nextItem": {
+    "title": "23",
+    "permalink": "/blog/23"
+  }
+}

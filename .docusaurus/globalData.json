@@ -21,6 +21,21 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "teach/cheatsheets/0",
+              "path": "/docs/teach/cheatsheets/0",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "teach/cheatsheets/1",
+              "path": "/docs/teach/cheatsheets/1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "teach/cheatsheets/3",
+              "path": "/docs/teach/cheatsheets/3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "teach/cheatsheets/index",
               "path": "/docs/teach/cheatsheets/",
               "sidebar": "tutorialSidebar"
@@ -28,6 +43,11 @@
             {
               "id": "teach/cheatsheets/it-vbe-old",
               "path": "/docs/teach/cheatsheets/it-vbe-old",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "teach/cheatsheets/vectors",
+              "path": "/docs/teach/cheatsheets/vectors",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -68,6 +88,106 @@
             {
               "id": "write/short-dreams",
               "path": "/docs/write/short-dreams",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/slam/0",
+              "path": "/docs/write/slam/0",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/slam/1",
+              "path": "/docs/write/slam/1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/slam/10",
+              "path": "/docs/write/slam/10",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/slam/11",
+              "path": "/docs/write/slam/11",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/slam/12",
+              "path": "/docs/write/slam/12",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/slam/13",
+              "path": "/docs/write/slam/13",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/slam/14",
+              "path": "/docs/write/slam/14",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/slam/15",
+              "path": "/docs/write/slam/15",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/slam/16",
+              "path": "/docs/write/slam/16",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/slam/17",
+              "path": "/docs/write/slam/17",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/slam/18",
+              "path": "/docs/write/slam/18",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/slam/19",
+              "path": "/docs/write/slam/19",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/slam/2",
+              "path": "/docs/write/slam/2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/slam/3",
+              "path": "/docs/write/slam/3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/slam/4",
+              "path": "/docs/write/slam/4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/slam/5",
+              "path": "/docs/write/slam/5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/slam/6",
+              "path": "/docs/write/slam/6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/slam/7",
+              "path": "/docs/write/slam/7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/slam/8",
+              "path": "/docs/write/slam/8",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/slam/9",
+              "path": "/docs/write/slam/9",
               "sidebar": "tutorialSidebar"
             },
             {

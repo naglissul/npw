@@ -1,0 +1,23 @@
+{
+  "id": "write/slam/16",
+  "title": "Laikas sugrįžti",
+  "description": "2022 metų birželio 12 dieną 19:22 žiūrėdamas į saulės peršviečiamus obels lapus aš prabudau. Nors, gal",
+  "source": "@site/docs/write/slam/16.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/16",
+  "permalink": "/docs/write/slam/16",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Karštis gaivina",
+    "permalink": "/docs/write/slam/15"
+  },
+  "next": {
+    "title": "Išjunk ir įjunk",
+    "permalink": "/docs/write/slam/17"
+  }
+}

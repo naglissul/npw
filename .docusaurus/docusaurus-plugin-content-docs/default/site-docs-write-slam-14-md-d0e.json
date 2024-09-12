@@ -1,0 +1,23 @@
+{
+  "id": "write/slam/14",
+  "title": "Suodžiai",
+  "description": "Pripažinsiu. Suodžiai vis dėlto yra keisti padarai. Visąlaik maniau, kad jie yra paprastos pabaisos –",
+  "source": "@site/docs/write/slam/14.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/14",
+  "permalink": "/docs/write/slam/14",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Žudyti arba būti nužudytam",
+    "permalink": "/docs/write/slam/13"
+  },
+  "next": {
+    "title": "Karštis gaivina",
+    "permalink": "/docs/write/slam/15"
+  }
+}

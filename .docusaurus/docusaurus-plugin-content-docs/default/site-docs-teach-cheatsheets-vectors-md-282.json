@@ -1,0 +1,23 @@
+{
+  "id": "teach/cheatsheets/vectors",
+  "title": "vectors",
+  "description": "subject: MATH",
+  "source": "@site/docs/teach/cheatsheets/vectors.md",
+  "sourceDirName": "teach/cheatsheets",
+  "slug": "/teach/cheatsheets/vectors",
+  "permalink": "/docs/teach/cheatsheets/vectors",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IT VBE template",
+    "permalink": "/docs/teach/cheatsheets/it-vbe-old"
+  },
+  "next": {
+    "title": "Mokslas gali būti įdomus (MGBĮ) <sub>LT</sub>",
+    "permalink": "/docs/teach/science-can-be-interesting"
+  }
+}

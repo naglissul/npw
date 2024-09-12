@@ -1,0 +1,23 @@
+{
+  "id": "teach/cheatsheets/3",
+  "title": "3",
+  "description": "createdAt: 2021-06-10",
+  "source": "@site/docs/teach/cheatsheets/3.md",
+  "sourceDirName": "teach/cheatsheets",
+  "slug": "/teach/cheatsheets/3",
+  "permalink": "/docs/teach/cheatsheets/3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1",
+    "permalink": "/docs/teach/cheatsheets/1"
+  },
+  "next": {
+    "title": "IT VBE template",
+    "permalink": "/docs/teach/cheatsheets/it-vbe-old"
+  }
+}

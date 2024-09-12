@@ -1,0 +1,23 @@
+{
+  "id": "write/slam/17",
+  "title": "Išjunk ir įjunk",
+  "description": "There’s a fish in my mouth.",
+  "source": "@site/docs/write/slam/17.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/17",
+  "permalink": "/docs/write/slam/17",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Laikas sugrįžti",
+    "permalink": "/docs/write/slam/16"
+  },
+  "next": {
+    "title": "Groningeno traukinys",
+    "permalink": "/docs/write/slam/18"
+  }
+}

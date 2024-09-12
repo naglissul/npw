@@ -1,0 +1,23 @@
+{
+  "id": "write/slam/13",
+  "title": "Žudyti arba būti nužudytam",
+  "description": "by Audrius",
+  "source": "@site/docs/write/slam/13.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/13",
+  "permalink": "/docs/write/slam/13",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nelik sapne",
+    "permalink": "/docs/write/slam/12"
+  },
+  "next": {
+    "title": "Suodžiai",
+    "permalink": "/docs/write/slam/14"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "write/slam/3",
+  "title": "Muzika. Trumpinys",
+  "description": "Prieštaktis",
+  "source": "@site/docs/write/slam/3.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/3",
+  "permalink": "/docs/write/slam/3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2 dalis. Pernykštis sniegas. Penktas skyrius: Kelionė",
+    "permalink": "/docs/write/slam/2"
+  },
+  "next": {
+    "title": "Nespėjau",
+    "permalink": "/docs/write/slam/4"
+  }
+}

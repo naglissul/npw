@@ -1,0 +1,23 @@
+{
+  "id": "write/slam/11",
+  "title": "Negaliu patikėti",
+  "description": "„Nelik sapne“ tęsinys",
+  "source": "@site/docs/write/slam/11.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/11",
+  "permalink": "/docs/write/slam/11",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dar vienas sapnas",
+    "permalink": "/docs/write/slam/10"
+  },
+  "next": {
+    "title": "Nelik sapne",
+    "permalink": "/docs/write/slam/12"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "write/slam/4",
+  "title": "Nespėjau",
+  "description": "Žiemą vaizdas yra labai gražus. Aš tai žinau. Turbūt daug kas tai žino. Oras gali būti šaltas, gali būti",
+  "source": "@site/docs/write/slam/4.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/4",
+  "permalink": "/docs/write/slam/4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Muzika. Trumpinys",
+    "permalink": "/docs/write/slam/3"
+  },
+  "next": {
+    "title": "Smuikas",
+    "permalink": "/docs/write/slam/5"
+  }
+}

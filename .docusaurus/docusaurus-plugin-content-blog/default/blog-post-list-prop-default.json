@@ -2,10 +2,34 @@
   "title": "Recent posts",
   "items": [
     {
-      "title": "On teaching",
-      "permalink": "/blog/on-teaching",
+      "title": "30",
+      "permalink": "/blog/30",
       "unlisted": false,
-      "date": "2023-11-06T00:00:00.000Z"
+      "date": "2024-09-12T23:25:01.252Z"
+    },
+    {
+      "title": "29",
+      "permalink": "/blog/29",
+      "unlisted": false,
+      "date": "2024-09-12T23:25:01.220Z"
+    },
+    {
+      "title": "28",
+      "permalink": "/blog/28",
+      "unlisted": false,
+      "date": "2024-09-12T23:25:01.188Z"
+    },
+    {
+      "title": "27",
+      "permalink": "/blog/27",
+      "unlisted": false,
+      "date": "2024-09-12T23:25:01.172Z"
+    },
+    {
+      "title": "26",
+      "permalink": "/blog/26",
+      "unlisted": false,
+      "date": "2024-09-12T23:25:01.104Z"
     }
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "id": "write/slam/1",
+  "title": "5 dalis. Antras skyrius: Vabalai yra tikri",
+  "description": "Pirma taisyklė – niekada negalima eit miegot su tamsa. Turi būti bent kažkokia šviesa, tarkim pro durų plyšį",
+  "source": "@site/docs/write/slam/1.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/1",
+  "permalink": "/docs/write/slam/1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trumpas sapnas",
+    "permalink": "/docs/write/slam/0"
+  },
+  "next": {
+    "title": "Dar vienas sapnas",
+    "permalink": "/docs/write/slam/10"
+  }
+}

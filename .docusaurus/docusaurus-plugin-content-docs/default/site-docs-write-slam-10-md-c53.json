@@ -1,0 +1,23 @@
+{
+  "id": "write/slam/10",
+  "title": "Dar vienas sapnas",
+  "description": "Per šaltą kosmoso erdvę. Per atmosferą, per gaivų pavasario orą skrenda mažas saulės spindulėlis. Ir atsimušęs",
+  "source": "@site/docs/write/slam/10.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/10",
+  "permalink": "/docs/write/slam/10",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "5 dalis. Antras skyrius: Vabalai yra tikri",
+    "permalink": "/docs/write/slam/1"
+  },
+  "next": {
+    "title": "Negaliu patikėti",
+    "permalink": "/docs/write/slam/11"
+  }
+}

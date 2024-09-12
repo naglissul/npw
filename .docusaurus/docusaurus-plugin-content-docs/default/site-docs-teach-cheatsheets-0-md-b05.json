@@ -1,0 +1,23 @@
+{
+  "id": "teach/cheatsheets/0",
+  "title": "0",
+  "description": "subject: PHYSICS",
+  "source": "@site/docs/teach/cheatsheets/0.md",
+  "sourceDirName": "teach/cheatsheets",
+  "slug": "/teach/cheatsheets/0",
+  "permalink": "/docs/teach/cheatsheets/0",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Konspektai <sub>LT</sub>",
+    "permalink": "/docs/teach/cheatsheets/"
+  },
+  "next": {
+    "title": "1",
+    "permalink": "/docs/teach/cheatsheets/1"
+  }
+}

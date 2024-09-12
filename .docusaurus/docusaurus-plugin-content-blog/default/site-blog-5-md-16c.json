@@ -1,0 +1,21 @@
+{
+  "permalink": "/blog/5",
+  "source": "@site/blog/5.md",
+  "title": "5",
+  "description": "ARCHIVE",
+  "date": "2024-09-12T23:25:00.520Z",
+  "tags": [],
+  "readingTime": 1.355,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {},
+  "unlisted": false,
+  "prevItem": {
+    "title": "6",
+    "permalink": "/blog/6"
+  },
+  "nextItem": {
+    "title": "On teaching",
+    "permalink": "/blog/on-teaching"
+  }
+}

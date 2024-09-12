@@ -1,0 +1,23 @@
+{
+  "id": "teach/cheatsheets/1",
+  "title": "1",
+  "description": "subject: MATH",
+  "source": "@site/docs/teach/cheatsheets/1.md",
+  "sourceDirName": "teach/cheatsheets",
+  "slug": "/teach/cheatsheets/1",
+  "permalink": "/docs/teach/cheatsheets/1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "0",
+    "permalink": "/docs/teach/cheatsheets/0"
+  },
+  "next": {
+    "title": "3",
+    "permalink": "/docs/teach/cheatsheets/3"
+  }
+}

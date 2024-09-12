@@ -1,0 +1,23 @@
+{
+  "id": "write/slam/12",
+  "title": "Nelik sapne",
+  "description": "Sėdint prie žaidimų aikštelės ir stebint Mildą su anūkais apėmė kas ne kas, bet begalinė laimė. Tokia",
+  "source": "@site/docs/write/slam/12.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/12",
+  "permalink": "/docs/write/slam/12",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Negaliu patikėti",
+    "permalink": "/docs/write/slam/11"
+  },
+  "next": {
+    "title": "Žudyti arba būti nužudytam",
+    "permalink": "/docs/write/slam/13"
+  }
+}

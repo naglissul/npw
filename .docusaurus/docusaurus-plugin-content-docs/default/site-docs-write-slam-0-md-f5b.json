@@ -1,0 +1,23 @@
+{
+  "id": "write/slam/0",
+  "title": "Trumpas sapnas",
+  "description": "Kaip? Kaip aš čia atsidūriau? Sniegas pabiro ant žemės. Eglės šaka sulingavo. Ir daugiau tylu. Bet koks",
+  "source": "@site/docs/write/slam/0.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/0",
+  "permalink": "/docs/write/slam/0",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Slam",
+    "permalink": "/docs/write/slam/"
+  },
+  "next": {
+    "title": "5 dalis. Antras skyrius: Vabalai yra tikri",
+    "permalink": "/docs/write/slam/1"
+  }
+}

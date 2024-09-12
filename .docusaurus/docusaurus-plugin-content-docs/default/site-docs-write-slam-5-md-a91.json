@@ -1,0 +1,23 @@
+{
+  "id": "write/slam/5",
+  "title": "Smuikas",
+  "description": "Prisėdi prie kompiuterio ruoštis koliui. Sugalvoji pasileisti kokios nors foninės muzikos per savo taip retai",
+  "source": "@site/docs/write/slam/5.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/5",
+  "permalink": "/docs/write/slam/5",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nespėjau",
+    "permalink": "/docs/write/slam/4"
+  },
+  "next": {
+    "title": "Trumpas tutorialas, kaip sukurti visatą",
+    "permalink": "/docs/write/slam/6"
+  }
+}
