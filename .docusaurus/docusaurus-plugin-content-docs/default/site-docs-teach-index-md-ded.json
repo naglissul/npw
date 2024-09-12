@@ -1,0 +1,26 @@
+{
+  "id": "teach/index",
+  "title": "Teach",
+  "description": "Currently",
+  "source": "@site/docs/teach/index.md",
+  "sourceDirName": "teach",
+  "slug": "/teach/",
+  "permalink": "/docs/teach/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pirmasis sniegas <sub>LT</sub>",
+    "permalink": "/docs/write/the-first-snow"
+  },
+  "next": {
+    "title": "Konspektai <sub>LT</sub>",
+    "permalink": "/docs/teach/cheatsheets/"
+  }
+}

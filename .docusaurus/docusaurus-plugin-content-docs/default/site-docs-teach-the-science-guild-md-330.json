@@ -1,0 +1,23 @@
+{
+  "id": "teach/the-science-guild",
+  "title": "Mokslo gildija <sub>LT</sub>",
+  "description": "Univeras arba mokykla nuvylė, bet vis tiek nori išmokti dalykų? Mokykis savarankiškai ir pristatyk, ką išmoksti, kitiems!",
+  "source": "@site/docs/teach/the-science-guild.md",
+  "sourceDirName": "teach",
+  "slug": "/teach/the-science-guild",
+  "permalink": "/docs/teach/the-science-guild",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mokslas gali būti įdomus (MGBĮ) <sub>LT</sub>",
+    "permalink": "/docs/teach/science-can-be-interesting"
+  },
+  "next": {
+    "title": "Korepetitorius <sub>LT</sub>",
+    "permalink": "/docs/teach/tutor"
+  }
+}

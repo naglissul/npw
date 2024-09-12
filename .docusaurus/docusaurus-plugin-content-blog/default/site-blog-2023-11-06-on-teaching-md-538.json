@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/on-teaching",
+  "source": "@site/blog/2023-11-06-on-teaching.md",
+  "title": "On teaching",
+  "description": "A few ideas that could possibly make a huge impact on education",
+  "date": "2023-11-06T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General (draft)"
+    }
+  ],
+  "readingTime": 2.47,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Naglis Šuliokas",
+      "title": "Vilnius University student",
+      "key": "naglissul",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "on-teaching",
+    "title": "On teaching",
+    "authors": "naglissul",
+    "tags": [
+      "general"
+    ]
+  },
+  "unlisted": false
+}

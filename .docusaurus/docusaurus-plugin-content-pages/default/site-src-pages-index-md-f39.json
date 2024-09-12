@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/",
+  "source": "@site/src/pages/index.md",
+  "title": "Markdown page example",
+  "description": "🎵 P. Tchaikovsky - The Nutcracker, Op. 71, Act II, Scene XIV: Waltz of the Flowers 🎵",
+  "frontMatter": {
+    "title": "Markdown page example"
+  },
+  "unlisted": false
+}

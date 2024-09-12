@@ -1,0 +1,78 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "code/index",
+          "docs": [
+            {
+              "id": "code/index",
+              "path": "/docs/code/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "music/index",
+              "path": "/docs/music/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "teach/cheatsheets/index",
+              "path": "/docs/teach/cheatsheets/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "teach/cheatsheets/it-vbe-old",
+              "path": "/docs/teach/cheatsheets/it-vbe-old",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "teach/index",
+              "path": "/docs/teach/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "teach/science-can-be-interesting",
+              "path": "/docs/teach/science-can-be-interesting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "teach/the-science-guild",
+              "path": "/docs/teach/the-science-guild",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "teach/tutor",
+              "path": "/docs/teach/tutor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/index",
+              "path": "/docs/write/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "write/the-first-snow",
+              "path": "/docs/write/the-first-snow",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/code/",
+                "label": "Code"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

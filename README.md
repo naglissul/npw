@@ -2,6 +2,10 @@
 
 Deployed here: [https://www.npw.lt](https://www.npw.lt)
 
+Now using docusaurius. v3
+
+---
+
 ## setup
 
 Clone repo, create `.env` file from `.env.template` and set the `NODE_ENV=production`.

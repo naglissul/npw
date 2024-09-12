@@ -1,0 +1,23 @@
+{
+  "id": "teach/cheatsheets/it-vbe-old",
+  "title": "IT VBE template",
+  "description": "createdAt: 2021-06-10",
+  "source": "@site/docs/teach/cheatsheets/it-vbe-old.md",
+  "sourceDirName": "teach/cheatsheets",
+  "slug": "/teach/cheatsheets/it-vbe-old",
+  "permalink": "/docs/teach/cheatsheets/it-vbe-old",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Konspektai <sub>LT</sub>",
+    "permalink": "/docs/teach/cheatsheets/"
+  },
+  "next": {
+    "title": "Mokslas gali būti įdomus (MGBĮ) <sub>LT</sub>",
+    "permalink": "/docs/teach/science-can-be-interesting"
+  }
+}

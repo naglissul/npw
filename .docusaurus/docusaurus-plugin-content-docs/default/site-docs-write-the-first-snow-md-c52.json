@@ -1,0 +1,23 @@
+{
+  "id": "write/the-first-snow",
+  "title": "Pirmasis sniegas <sub>LT</sub>",
+  "description": "",
+  "source": "@site/docs/write/the-first-snow.md",
+  "sourceDirName": "write",
+  "slug": "/write/the-first-snow",
+  "permalink": "/docs/write/the-first-snow",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rašymas <sub>LT+EN</sub>",
+    "permalink": "/docs/write/"
+  },
+  "next": {
+    "title": "Teach",
+    "permalink": "/docs/teach/"
+  }
+}

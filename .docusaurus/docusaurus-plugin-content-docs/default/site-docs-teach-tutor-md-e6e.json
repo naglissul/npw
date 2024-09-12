@@ -1,0 +1,23 @@
+{
+  "id": "teach/tutor",
+  "title": "Korepetitorius <sub>LT</sub>",
+  "description": "Matematika (galima ir fiziką), 9-12 kl.",
+  "source": "@site/docs/teach/tutor.md",
+  "sourceDirName": "teach",
+  "slug": "/teach/tutor",
+  "permalink": "/docs/teach/tutor",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mokslo gildija <sub>LT</sub>",
+    "permalink": "/docs/teach/the-science-guild"
+  },
+  "next": {
+    "title": "Music",
+    "permalink": "/docs/music/"
+  }
+}

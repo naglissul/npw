@@ -1,0 +1,23 @@
+{
+  "id": "teach/science-can-be-interesting",
+  "title": "Mokslas gali būti įdomus (MGBĮ) <sub>LT</sub>",
+  "description": "Mirus iniciatyva, šiuo metu niekas nevyksta. Paskutinė paskaita buvo 2022-10-13",
+  "source": "@site/docs/teach/science-can-be-interesting.md",
+  "sourceDirName": "teach",
+  "slug": "/teach/science-can-be-interesting",
+  "permalink": "/docs/teach/science-can-be-interesting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IT VBE template",
+    "permalink": "/docs/teach/cheatsheets/it-vbe-old"
+  },
+  "next": {
+    "title": "Mokslo gildija <sub>LT</sub>",
+    "permalink": "/docs/teach/the-science-guild"
+  }
+}
