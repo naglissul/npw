@@ -46,9 +46,9 @@ All the job market and social status stuff you can find in my LinkedIn profile :
 
 All the socials and contacts in the footer.
 
-[Pirmasis sniegas]: /write/the-first-snow.html
-[Mokslo gildija]: /teach/the-science-guild.html
+[Pirmasis sniegas]: /docs/write/the-first-snow
+[Mokslo gildija]: docs/teach/the-science-guild
 [vbesort.lt]: https://www.vbesort.lt
 [sci-dict.org]: https://www.sci-dict.org
 [skafis.lt]: https://www.skafis.lt
-[Write (Vilniaus knygų mugei)]: /write/index.html
+[Write (Vilniaus knygų mugei)]: /docs/write

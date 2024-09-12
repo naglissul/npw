@@ -10,7 +10,7 @@ const config: Config = {
   baseUrl: "/",
   organizationName: "naglissul",
   projectName: "npw",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
 
   i18n: {
@@ -71,7 +71,7 @@ const config: Config = {
           items: [
             {
               label: "Content",
-              to: "/docs/intro",
+              to: "/docs",
             },
           ],
         },

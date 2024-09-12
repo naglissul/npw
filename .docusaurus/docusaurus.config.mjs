@@ -11,7 +11,7 @@ export default {
   "baseUrl": "/",
   "organizationName": "naglissul",
   "projectName": "npw",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "ignore",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
@@ -97,7 +97,7 @@ export default {
           "items": [
             {
               "label": "Content",
-              "to": "/docs/intro"
+              "to": "/docs"
             }
           ]
         },

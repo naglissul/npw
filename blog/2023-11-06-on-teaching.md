@@ -9,7 +9,7 @@ tags: [general]
 
 ## A few ideas that could possibly make a huge impact on education
 
-I've always had a question in my mind, an unsolved mystery - why math and other science is so damn easy, but yet so many students fail it? I am no special person - not some kind of genius, and many others could achieve much more than I had. And everything seems so simple as you get an explanation from peer student. And so damn dificult as you learn everything by the pace of an average Lithianian school.
+I've always had a question in my mind, an unsolved mystery - why math and other science is so damn easy, but yet so many students fail it? I am no special person - not some kind of genius, and <!-- truncate --> many others could achieve much more than I had. And everything seems so simple as you get an explanation from peer student. And so damn dificult as you learn everything by the pace of an average Lithianian school.
 
 I tried tutoring, also tried teaching - but is probably seems obvious, that you cannot change a lot in education by makiing difference only when you spend your own time. A lot of your own time. And not using what other people have already created/invented.
 
