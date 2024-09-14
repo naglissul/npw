@@ -42,7 +42,7 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/blog-d76": {
+  "/blog-965": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -50,34 +50,34 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blog-2-d-6-351"
+        "content": "content---blog-189-d10"
       },
       {
-        "content": "content---blogc-32-b65"
+        "content": "content---blog-32-e-473"
       },
       {
-        "content": "content---blog-1-ec-1bb"
+        "content": "content---blogb-54-e09"
       },
       {
-        "content": "content---blog-2-bb-a2b"
+        "content": "content---blogde-8-810"
       },
       {
-        "content": "content---blog-62-a-615"
+        "content": "content---blog-4-ed-ed6"
       },
       {
-        "content": "content---blogc-55-ce6"
+        "content": "content---blog-076-6ee"
       },
       {
-        "content": "content---blogd-0-e-cac"
+        "content": "content---bloge-7-c-88a"
       },
       {
-        "content": "content---blog-6-c-5-1ab"
+        "content": "content---blog-860-9d9"
       },
       {
-        "content": "content---blogdaf-42d"
+        "content": "content---blog-9-bb-a0f"
       },
       {
-        "content": "content---blog-2-d-8-520"
+        "content": "content---blog-460-b5d"
       }
     ],
     "__props": "__props---blogc-15-573"
@@ -452,7 +452,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-on-teaching-538-505"
   },
-  "/blog/page/2-f98": {
+  "/blog/page/2-e25": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -463,36 +463,36 @@
         "content": "content---blog-page-286-c-2ce"
       },
       {
-        "content": "content---blog-page-2460-246"
+        "content": "content---blog-page-22-d-8-9c3"
       },
       {
-        "content": "content---blog-page-29-bb-2ef"
+        "content": "content---blog-page-2-daf-040"
       },
       {
-        "content": "content---blog-page-2860-542"
+        "content": "content---blog-page-26-c-5-011"
       },
       {
-        "content": "content---blog-page-2-e-7-c-617"
+        "content": "content---blog-page-2-d-0-e-c95"
       },
       {
-        "content": "content---blog-page-2076-d10"
+        "content": "content---blog-page-2-c-55-058"
       },
       {
-        "content": "content---blog-page-24-ed-fd9"
+        "content": "content---blog-page-262-a-310"
       },
       {
-        "content": "content---blog-page-2-de-8-bb4"
+        "content": "content---blog-page-22-bb-e48"
       },
       {
-        "content": "content---blog-page-2-b-54-b9c"
+        "content": "content---blog-page-21-ec-d63"
       },
       {
-        "content": "content---blog-page-232-e-28f"
+        "content": "content---blog-page-2-c-32-2d3"
       }
     ],
     "__props": "__props---blog-page-28-ea-cf7"
   },
-  "/blog/page/3-f6c": {
+  "/blog/page/3-857": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -500,22 +500,22 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blog-page-3189-a9b"
+        "content": "content---blog-page-32-d-6-779"
       },
       {
-        "content": "content---blog-page-35-e-7-c8e"
-      },
-      {
-        "content": "content---blog-page-3841-4f8"
-      },
-      {
-        "content": "content---blog-page-3269-836"
+        "content": "content---blog-page-311-c-904"
       },
       {
         "content": "content---blog-page-3-ae-1-50c"
       },
       {
-        "content": "content---blog-page-311-c-904"
+        "content": "content---blog-page-3269-836"
+      },
+      {
+        "content": "content---blog-page-3841-4f8"
+      },
+      {
+        "content": "content---blog-page-35-e-7-c8e"
       },
       {
         "content": "content---blog-page-3-a-82-441"

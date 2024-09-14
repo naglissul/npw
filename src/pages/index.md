@@ -4,6 +4,12 @@ title: Markdown page example
 
 # Home
 
+:::info
+Registracijos nuoroda į grupines 12 kl. matematikos pamokas nuo rugsėjo 18 d.
+
+https://forms.gle/gcM3qojBuELzgpBE6
+:::
+
 🎵 P. Tchaikovsky - The Nutcracker, Op. 71, Act II, Scene XIV: Waltz of the Flowers 🎵
 
 ## _This is..._

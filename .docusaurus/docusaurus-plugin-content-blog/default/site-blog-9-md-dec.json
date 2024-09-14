@@ -3,7 +3,7 @@
   "source": "@site/blog/9.md",
   "title": "9",
   "description": "ARCHIVE",
-  "date": "2024-09-12T23:25:00.628Z",
+  "date": "2024-09-12T23:51:25.000Z",
   "tags": [],
   "readingTime": 1.67,
   "hasTruncateMarker": false,
@@ -11,11 +11,11 @@
   "frontMatter": {},
   "unlisted": false,
   "prevItem": {
-    "title": "10",
-    "permalink": "/blog/10"
-  },
-  "nextItem": {
     "title": "8",
     "permalink": "/blog/8"
+  },
+  "nextItem": {
+    "title": "On teaching",
+    "permalink": "/blog/on-teaching"
   }
 }

@@ -3,7 +3,7 @@
   "source": "@site/blog/27.md",
   "title": "27",
   "description": "NEW",
-  "date": "2024-09-12T23:25:01.172Z",
+  "date": "2024-09-12T23:51:25.000Z",
   "tags": [],
   "readingTime": 5.825,
   "hasTruncateMarker": false,
@@ -11,11 +11,11 @@
   "frontMatter": {},
   "unlisted": false,
   "prevItem": {
-    "title": "28",
-    "permalink": "/blog/28"
-  },
-  "nextItem": {
     "title": "26",
     "permalink": "/blog/26"
+  },
+  "nextItem": {
+    "title": "28",
+    "permalink": "/blog/28"
   }
 }
