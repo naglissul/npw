@@ -1,5 +1,5 @@
 ---
-title: Markdown page example
+title: Home page
 ---
 
 # Home
@@ -10,7 +10,7 @@ Registracijos nuoroda į grupines 12 kl. matematikos pamokas nuo rugsėjo 18 d.
 https://forms.gle/gcM3qojBuELzgpBE6
 :::
 
-🎵 P. Tchaikovsky - The Nutcracker, Op. 71, Act II, Scene XIV: Waltz of the Flowers 🎵
+🎵 Metronomy, Faux Real, Miki - Contact High 🎵
 
 ## _This is..._
 

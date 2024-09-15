@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2022/04/01/slm5",
+  "source": "@site/blog/2022-04-01-slm5.md",
+  "title": "slm5",
+  "description": "Čia trys tekstai ne dėl to, kad buvau išrinktas į trečią etapą, o tiesiog dėl to, kad buvo mažai žmonių, tai visi buvo visuose trijuose etapuose. Sėkmės skaitant.",
+  "date": "2022-04-01T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "Lietuviški",
+      "permalink": "/blog/tags/lt",
+      "description": "Lietuviški"
+    }
+  ],
+  "readingTime": 0.195,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "general",
+      "lt"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "ok. let’s recap ARBA pamirštas magiškas pasaulis",
+    "permalink": "/blog/2022/04/21/recap-magic"
+  },
+  "nextItem": {
+    "title": "Ketvirtas slemas",
+    "permalink": "/blog/2022/03/18/4th-slam"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2023/09/10/first-ss-lecture",
+  "source": "@site/blog/2023-09-10-first-ss-lecture.md",
+  "title": "Pirmoji SS matematikos paskaita",
+  "description": "",
+  "date": "2023-09-10T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "Lietuviški",
+      "permalink": "/blog/tags/lt",
+      "description": "Lietuviški"
+    }
+  ],
+  "readingTime": 5.79,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "general",
+      "lt"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Het is genoeg.",
+    "permalink": "/blog/2023/10/05/het-is-genoeg"
+  },
+  "nextItem": {
+    "title": "ss-math-and-other-ed-projects",
+    "permalink": "/blog/2023/08/22/ss-math-and-other-ed-projects"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "write/slam/nespejau",
+  "title": "Nespėjau",
+  "description": "Žiemą vaizdas yra labai gražus. Aš tai žinau. Turbūt daug kas tai žino. Oras gali būti šaltas, gali būti",
+  "source": "@site/docs/write/slam/4-nespejau.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/nespejau",
+  "permalink": "/docs/write/slam/nespejau",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "5 dalis. Antras skyrius: Vabalai yra tikri",
+    "permalink": "/docs/write/slam/vabalai"
+  },
+  "next": {
+    "title": "Smuikas",
+    "permalink": "/docs/write/slam/smuikas"
+  }
+}

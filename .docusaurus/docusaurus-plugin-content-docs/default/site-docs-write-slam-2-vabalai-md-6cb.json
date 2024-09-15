@@ -1,0 +1,24 @@
+{
+  "id": "write/slam/vabalai",
+  "title": "5 dalis. Antras skyrius: Vabalai yra tikri",
+  "description": "Pirma taisyklė – niekada negalima eit miegot su tamsa. Turi būti bent kažkokia šviesa, tarkim pro durų plyšį",
+  "source": "@site/docs/write/slam/2-vabalai.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/vabalai",
+  "permalink": "/docs/write/slam/vabalai",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2 dalis. Pernykštis sniegas. Penktas skyrius: Kelionė",
+    "permalink": "/docs/write/slam/kelione"
+  },
+  "next": {
+    "title": "Muzika. Trumpinys",
+    "permalink": "/docs/write/slam/muzika"
+  }
+}

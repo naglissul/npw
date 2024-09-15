@@ -1,21 +1,39 @@
 {
   "permalink": "/blog/2021/08/15/ideas-for-the-future",
   "source": "@site/blog/2021-08-15-ideas-for-the-future.md",
-  "title": "ideas-for-the-future",
-  "description": "ARCHIVE",
+  "title": "Ideas for the future",
+  "description": "So a lot of you was asking in the comments, what I have engaged with recently…",
   "date": "2021-08-15T00:00:00.000Z",
-  "tags": [],
-  "readingTime": 5.06,
-  "hasTruncateMarker": false,
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "English",
+      "permalink": "/blog/tags/en",
+      "description": "English"
+    }
+  ],
+  "readingTime": 5.03,
+  "hasTruncateMarker": true,
   "authors": [],
-  "frontMatter": {},
+  "frontMatter": {
+    "tags": [
+      "general",
+      "en"
+    ]
+  },
   "unlisted": false,
   "prevItem": {
-    "title": "nothing-makes-sense",
+    "title": "Nothing makes sense any more",
     "permalink": "/blog/2021/08/20/nothing-makes-sense"
   },
   "nextItem": {
-    "title": "init",
+    "title": "def **init**(): #Intial Post",
     "permalink": "/blog/2021/07/18/init"
   }
 }

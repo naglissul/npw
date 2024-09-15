@@ -1,17 +1,35 @@
 {
   "permalink": "/blog/2021/07/18/init",
   "source": "@site/blog/2021-07-18-init.md",
-  "title": "init",
-  "description": "ARCHIVE",
+  "title": "def **init**(): #Intial Post",
+  "description": "Wow.",
   "date": "2021-07-18T00:00:00.000Z",
-  "tags": [],
-  "readingTime": 1.41,
-  "hasTruncateMarker": false,
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "English",
+      "permalink": "/blog/tags/en",
+      "description": "English"
+    }
+  ],
+  "readingTime": 1.385,
+  "hasTruncateMarker": true,
   "authors": [],
-  "frontMatter": {},
+  "frontMatter": {
+    "tags": [
+      "general",
+      "en"
+    ]
+  },
   "unlisted": false,
   "prevItem": {
-    "title": "ideas-for-the-future",
+    "title": "Ideas for the future",
     "permalink": "/blog/2021/08/15/ideas-for-the-future"
   }
 }

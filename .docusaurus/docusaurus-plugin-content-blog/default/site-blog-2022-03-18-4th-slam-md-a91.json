@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2022/03/18/4th-slam",
+  "source": "@site/blog/2022-03-18-4th-slam.md",
+  "title": "Ketvirtas slemas",
+  "description": "krc, nėra čia ką rašyt, tiesiog va tekstukai iš vasario slemo. Biškį šįkart netaip gerai gavosi. Nebuvo kada rašyt, tai gavosi tokia tiesiog minčių makalynė. Gal pirmas gabaliukas ir fun,  toks kaip įžanga, bet tada pats kontentas yra toks kinda trash. Taip gaunasi, kai per tris minutes nori išspręsti visas visų žmonių problemas. Taigi, sėkmės skaitant.",
+  "date": "2022-03-18T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "Lietuviški",
+      "permalink": "/blog/tags/lt",
+      "description": "Lietuviški"
+    }
+  ],
+  "readingTime": 0.32,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "general",
+      "lt"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "slm5",
+    "permalink": "/blog/2022/04/01/slm5"
+  },
+  "nextItem": {
+    "title": "Pi. Well, that was f\\*\\*kin painful",
+    "permalink": "/blog/2022/03/18/pi"
+  }
+}

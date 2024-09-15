@@ -1,0 +1,26 @@
+{
+  "id": "write/slam/people-are-basic",
+  "title": "People are so basic",
+  "description": "Remember that feeling in school, when you understood, that maths just continues, continues and never ends? turns out it does. or, to be precise, loops around the same thing… Or maybe you remember that feeling that one day you will become an adult, or, “only 2 years left till you end school!” and you somehow magically will become an adult and start studying and working? and when that moment actually came, did something change? have you magically started thinking differently?",
+  "source": "@site/docs/write/slam/20-people-are-basic.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/people-are-basic",
+  "permalink": "/docs/write/slam/people-are-basic",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "sidebar_position": 20
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Groningeno traukinys",
+    "permalink": "/docs/write/slam/groningenas"
+  },
+  "next": {
+    "title": "Pirmasis sniegas",
+    "permalink": "/docs/write/the-first-snow"
+  }
+}

@@ -1,10 +1,10 @@
-ARCHIVE  
-EN  
-2021-08-20
+---
+tags: [general, en]
+---
 
 # Nothing makes sense any more
 
-And this is where I stopped. And pondered. About everything.
+And this is where I stopped. And pondered. About everything. <!-- truncate -->
 
 Not only what I want. I think I know it by now – I want to pursue the best I can, I want best I can get. Firstly it’s the education.
 

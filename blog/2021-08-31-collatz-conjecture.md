@@ -1,14 +1,14 @@
-ARCHIVE  
-EN  
-2021-08-31
+---
+tags: [general, en]
+---
 
 # Collatz conjecture
 
 (Better known as 3x+1 problem)
 
-I’d say this problem sounds pretty easy.
+I’d say this problem sounds pretty easy. <!-- truncate -->
 
-Consider this sequence: if $a_{i}$ is even, then $a_{i+1} = a_i / 2$; if $a_i$ is odd, then $a_{i+1} = 3 * a_i + 1$. Does all such sequences, starting with positive integer, end up at 1 (contains 1 in them)?
+Consider this sequence: if `$a_{i}$` is even, then `$a_{i+1} = a_i / 2$`; if $a_i$ is odd, then `$a_{i+1} = 3 * a_i + 1$`. Does all such sequences, starting with positive integer, end up at 1 (contains 1 in them)?
 
 Eventually, no one has ever answered this question (I mean, proven it). This is why it is a conjecture. And, a little suggestion for you – don’t even try to solve it. You’re just wasting your time.
 

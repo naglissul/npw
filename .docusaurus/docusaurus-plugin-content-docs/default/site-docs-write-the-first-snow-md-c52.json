@@ -1,6 +1,6 @@
 {
   "id": "write/the-first-snow",
-  "title": "Pirmasis sniegas <sub>LT</sub>",
+  "title": "Pirmasis sniegas",
   "description": "cover",
   "source": "@site/docs/write/the-first-snow.md",
   "sourceDirName": "write",
@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Pirmasis sniegas. Pirmas skyrius: Klaidžiojimas. 8",
-    "permalink": "/docs/write/slam/9"
+    "title": "People are so basic",
+    "permalink": "/docs/write/slam/people-are-basic"
   },
   "next": {
     "title": "Pernykštis sniegas",

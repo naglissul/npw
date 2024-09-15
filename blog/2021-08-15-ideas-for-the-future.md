@@ -1,10 +1,10 @@
-ARCHIVE  
-EN  
-2021-08-08, 2021-08-15
+---
+tags: [general, en]
+---
 
 # Ideas for the future
 
-So a lot of you was asking in the comments, what I have engaged with recently…
+So a lot of you was asking in the comments, what I have engaged with recently… <!-- truncate -->
 
 Just kidding. My website is being viewed by literally one person. And it is me.
 

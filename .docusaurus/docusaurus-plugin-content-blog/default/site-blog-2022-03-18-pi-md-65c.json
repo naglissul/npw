@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2022/03/18/pi",
+  "source": "@site/blog/2022-03-18-pi.md",
+  "title": "Pi. Well, that was f\\*\\*kin painful",
+  "description": "Kovo 14 diena. Sėdžiu VU didžiojoje fizikos auditorijoje pirmoje eilėje ir seku ant stalo stovinčio didelio analoginio laikrodžio sekundžių rodyklę.  Akies kampučiu galiu matyti, kaip netoliese prie to stalo vertintojo yra tikrinami ant popieriaus surašyti skaitmenys. Viską iki tūkstančio tikrai gerai parašiau. Ten tik toliau neaišku kiek gerai atgaminau, o kiek neatspėjau. Sėdžiu ir laukiu. Gan ilgai tikrina, tai turbūt daug yra gerai parašyta. “Septyni šimtai trisdešimt septyni”. Shit.",
+  "date": "2022-03-18T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "Lietuviški",
+      "permalink": "/blog/tags/lt",
+      "description": "Lietuviški"
+    }
+  ],
+  "readingTime": 4.475,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "general",
+      "lt"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Ketvirtas slemas",
+    "permalink": "/blog/2022/03/18/4th-slam"
+  },
+  "nextItem": {
+    "title": "Trečiasis slemas",
+    "permalink": "/blog/2022/01/29/3rd-slam"
+  }
+}

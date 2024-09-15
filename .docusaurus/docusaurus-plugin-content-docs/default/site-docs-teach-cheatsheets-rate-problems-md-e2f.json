@@ -1,0 +1,23 @@
+{
+  "id": "teach/cheatsheets/rate-problems",
+  "title": "Darbo ir greičio uždaviniai",
+  "description": "8 klasė",
+  "source": "@site/docs/teach/cheatsheets/rate-problems.md",
+  "sourceDirName": "teach/cheatsheets",
+  "slug": "/teach/cheatsheets/rate-problems",
+  "permalink": "/docs/teach/cheatsheets/rate-problems",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mechaniniai svyravimai ir bangos 8 kl.",
+    "permalink": "/docs/teach/cheatsheets/oscillations-8th-grade"
+  },
+  "next": {
+    "title": "vectors",
+    "permalink": "/docs/teach/cheatsheets/vectors"
+  }
+}

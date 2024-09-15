@@ -1,10 +1,10 @@
-ARCHIVE  
-LT  
-2021-08-26
+---
+tags: [general, lt]
+---
 
 # Trumpai apie rašymą
 
-Beveik kiekvienąkart, kai žmonėm pasakau, kad rašau, turiu dar prie to ir išdėstyti tą patį monologą apie savo neįprastą (ko gero) rašymo būdą. Todėl dabar viską parašau čia.
+Beveik kiekvienąkart, kai žmonėm pasakau, kad rašau, turiu dar prie to ir išdėstyti tą patį monologą apie savo neįprastą (ko gero) rašymo būdą. Todėl dabar viską parašau čia. <!-- truncate -->
 
 Pradėjau rašyti 13-os metų, žiemą, paauksuotu parkeriu, sename rusiškame ploname sąsiuvinyje ant stalo teniso stalo (tokio diy). Rašiau dėl keturių dalykų: neturėjau tuo metu ką veikti, norėjau pasimėgauti gerai rašančiu parkeriu, buvau kaip tik neseniai pilnai išmokęs savo noru prabusti iš sapno ir norėjau parašyti kažką, ką pačiam būtų įdomu skaityti (pajaučiau, kokio tipo kūrinys man tiktų, kad skaityčiau). Turbūt išsiplėsti reikėtų tik ties paskutiniu. Na, turbūt įdomu būtų išgirsti ir apie tai, kaip išmokau prabusti, arba kodėl man tai svarbu, bet čia paprasčiausiai taip išmokau po truputį ir to reikėjo, kad galėčiau prabusti iš gan dažnai kankinančių košmarų (po to nelabai ir buvo košmarų – nebuvo reikalo jiem būti, kai tik patekęs į košmarą galėjau prabusti).
 

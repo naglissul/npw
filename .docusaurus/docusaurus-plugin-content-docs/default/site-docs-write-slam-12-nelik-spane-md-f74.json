@@ -1,0 +1,24 @@
+{
+  "id": "write/slam/nelik-spane",
+  "title": "Nelik sapne",
+  "description": "Sėdint prie žaidimų aikštelės ir stebint Mildą su anūkais apėmė kas ne kas, bet begalinė laimė. Tokia",
+  "source": "@site/docs/write/slam/12-nelik-spane.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/nelik-spane",
+  "permalink": "/docs/write/slam/nelik-spane",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dar vienas sapnas",
+    "permalink": "/docs/write/slam/dar-vienas-sapnas"
+  },
+  "next": {
+    "title": "Negaliu patikėti",
+    "permalink": "/docs/write/slam/negaliu-patiketi"
+  }
+}

@@ -2,20 +2,38 @@
   "permalink": "/blog/28",
   "source": "@site/blog/28.md",
   "title": "28",
-  "description": "TYPE: NEW",
+  "description": "date: 2023-10-05",
   "date": "2024-09-12T23:51:25.000Z",
-  "tags": [],
-  "readingTime": 2.6,
-  "hasTruncateMarker": false,
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "English",
+      "permalink": "/blog/tags/en",
+      "description": "English"
+    }
+  ],
+  "readingTime": 2.595,
+  "hasTruncateMarker": true,
   "authors": [],
-  "frontMatter": {},
+  "frontMatter": {
+    "tags": [
+      "general",
+      "en"
+    ]
+  },
   "unlisted": false,
   "prevItem": {
     "title": "27",
     "permalink": "/blog/27"
   },
   "nextItem": {
-    "title": "29",
-    "permalink": "/blog/29"
+    "title": "5",
+    "permalink": "/blog/5"
   }
 }

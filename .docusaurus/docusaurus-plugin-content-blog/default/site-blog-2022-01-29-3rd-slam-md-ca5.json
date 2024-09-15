@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2022/01/29/3rd-slam",
+  "source": "@site/blog/2022-01-29-3rd-slam.md",
+  "title": "Trečiasis slemas",
+  "description": "Taigi, dar vienas slemas, kurį dabar pasekė teigiamas greitasis covid testas. Sėkmingo skaitymo.",
+  "date": "2022-01-29T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "Lietuviški",
+      "permalink": "/blog/tags/lt",
+      "description": "Lietuviški"
+    }
+  ],
+  "readingTime": 0.61,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "general",
+      "lt"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Pi. Well, that was f\\*\\*kin painful",
+    "permalink": "/blog/2022/03/18/pi"
+  },
+  "nextItem": {
+    "title": "Antrasis slemas",
+    "permalink": "/blog/2022/01/16/2nd-slam"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2024/06/20/season-3rd-year",
+  "source": "@site/blog/2024-06-20-season-3rd-year.md",
+  "title": "Season \"3rd year of studies\" is closed",
+  "description": "The academic year is done and, tradicionally, here is the recap of what I did and what are my plans for the future. It is more of a thing for myself, a way to catch up with things and somehow round up projects and stuff, but maybe you will also find some useful stuff.",
+  "date": "2024-06-20T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "English",
+      "permalink": "/blog/tags/en",
+      "description": "English"
+    }
+  ],
+  "readingTime": 4.365,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "general",
+      "en"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Ideas left behind",
+    "permalink": "/blog/2024/05/08/ideas-left-behind"
+  }
+}

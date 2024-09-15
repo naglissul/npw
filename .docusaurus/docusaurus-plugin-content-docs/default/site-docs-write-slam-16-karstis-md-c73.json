@@ -1,0 +1,26 @@
+{
+  "id": "write/slam/karstis",
+  "title": "Karštis gaivina",
+  "description": "Trečia mašina prazvimbė visu greičiu pro šalį ir tuomet tarsi lėtėdama slydo veidrodiniu atspindžiu per",
+  "source": "@site/docs/write/slam/16-karstis.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/karstis",
+  "permalink": "/docs/write/slam/karstis",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "sidebar_position": 16
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Suodžiai",
+    "permalink": "/docs/write/slam/suodziai"
+  },
+  "next": {
+    "title": "Laikas sugrįžti",
+    "permalink": "/docs/write/slam/laikas"
+  }
+}

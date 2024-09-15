@@ -1,4 +1,4 @@
-# Konspektai <sub>LT</sub>
+# Konspektai
 
 > Gaminu kitus švietimo projektus. Pasirodo ne per labiausiai žmonėms reikia konspektų. Tačiau sukeliu, kuriuos bet kuriuo atveju turiu.
 

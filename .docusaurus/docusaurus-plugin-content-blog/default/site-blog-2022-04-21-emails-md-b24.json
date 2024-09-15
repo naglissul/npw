@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2022/04/21/emails",
+  "source": "@site/blog/2022-04-21-emails.md",
+  "title": "emailai yra ziauriai kool",
+  "description": "Galvojau rašyti postą apie veiklas ir savo minčių paskirstymo fazes, bet galva pasisuko kita puse, kai prisiminiau, kad… ech, taip ir nepaklausiau dėstytojo vieno klausimo… Ir sumaniau parašyti jam laišką.  Na, elektroninį. Ir tada prisiminiau, kad kaip yra faina rašyti laiškus. Bei prisiminiau, kada tai prasidėjo. Ir taip įklimpau į šitą temą, kuri yra ŽIAURIAI vežanti.",
+  "date": "2022-04-21T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "Lietuviški",
+      "permalink": "/blog/tags/lt",
+      "description": "Lietuviški"
+    }
+  ],
+  "readingTime": 2.745,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "general",
+      "lt"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "slm6",
+    "permalink": "/blog/2022/05/03/slm6"
+  },
+  "nextItem": {
+    "title": "ok. let’s recap ARBA pamirštas magiškas pasaulis",
+    "permalink": "/blog/2022/04/21/recap-magic"
+  }
+}

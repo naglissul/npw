@@ -1,6 +1,6 @@
 {
   "id": "teach/science-can-be-interesting",
-  "title": "Mokslas gali būti įdomus (MGBĮ) <sub>LT</sub>",
+  "title": "Mokslas gali būti įdomus (MGBĮ)",
   "description": "Mirus iniciatyva, šiuo metu niekas nevyksta. Paskutinė paskaita buvo 2022-10-13",
   "source": "@site/docs/teach/science-can-be-interesting.md",
   "sourceDirName": "teach",
@@ -17,7 +17,7 @@
     "permalink": "/docs/teach/cheatsheets/vectors"
   },
   "next": {
-    "title": "Mokslo gildija <sub>LT</sub>",
+    "title": "Mokslo gildija",
     "permalink": "/docs/teach/the-science-guild"
   }
 }

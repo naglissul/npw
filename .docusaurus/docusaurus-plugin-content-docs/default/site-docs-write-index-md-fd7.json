@@ -1,6 +1,6 @@
 {
   "id": "write/index",
-  "title": "Rašymas <sub>LT+EN</sub>",
+  "title": "Rašymas",
   "description": "EN",
   "source": "@site/docs/write/index.md",
   "sourceDirName": "write",

@@ -1,0 +1,26 @@
+{
+  "id": "write/slam/ode",
+  "title": "Odė tinkleliui nuo uodų",
+  "description": "O, šlovingasis tinkleli,",
+  "source": "@site/docs/write/slam/9-ode.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/ode",
+  "permalink": "/docs/write/slam/ode",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Be košmarų neįdomu",
+    "permalink": "/docs/write/slam/kosmarai"
+  },
+  "next": {
+    "title": "Pirmasis sniegas. Pirmas skyrius: Klaidžiojimas. 8",
+    "permalink": "/docs/write/slam/10-8"
+  }
+}

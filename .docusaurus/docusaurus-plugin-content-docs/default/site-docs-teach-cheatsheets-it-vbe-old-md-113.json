@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "3",
-    "permalink": "/docs/teach/cheatsheets/3"
+    "title": "Konspektai",
+    "permalink": "/docs/teach/cheatsheets/"
   },
   "next": {
-    "title": "vectors",
-    "permalink": "/docs/teach/cheatsheets/vectors"
+    "title": "Mechaniniai svyravimai ir bangos 8 kl.",
+    "permalink": "/docs/teach/cheatsheets/oscillations-8th-grade"
   }
 }

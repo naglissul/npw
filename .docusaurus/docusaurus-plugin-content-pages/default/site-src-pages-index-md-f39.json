@@ -2,10 +2,10 @@
   "type": "mdx",
   "permalink": "/",
   "source": "@site/src/pages/index.md",
-  "title": "Markdown page example",
+  "title": "Home page",
   "description": "Registracijos nuoroda į grupines 12 kl. matematikos pamokas nuo rugsėjo 18 d.",
   "frontMatter": {
-    "title": "Markdown page example"
+    "title": "Home page"
   },
   "unlisted": false
 }

@@ -1,0 +1,23 @@
+{
+  "id": "write/slam/11-",
+  "title": "Dar vienas sapnas",
+  "description": "Per šaltą kosmoso erdvę. Per atmosferą, per gaivų pavasario orą skrenda mažas saulės spindulėlis. Ir atsimušęs",
+  "source": "@site/docs/write/slam/11-.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/11-",
+  "permalink": "/docs/write/slam/11-",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pirmasis sniegas. Pirmas skyrius: Klaidžiojimas. 8",
+    "permalink": "/docs/write/slam/10-8"
+  },
+  "next": {
+    "title": "Negaliu patikėti",
+    "permalink": "/docs/write/slam/11"
+  }
+}

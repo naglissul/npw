@@ -1,7 +1,7 @@
 {
   "id": "write/deafening-night",
   "title": "Kurtinančiai tyli naktis arba Ką padarysi...",
-  "description": "cover",
+  "description": "About",
   "source": "@site/docs/write/deafening-night.md",
   "sourceDirName": "write",
   "slug": "/write/deafening-night",
@@ -13,7 +13,7 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Rašymas <sub>LT+EN</sub>",
+    "title": "Rašymas",
     "permalink": "/docs/write/"
   },
   "next": {

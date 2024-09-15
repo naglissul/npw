@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2021/11/29/1st-slam",
+  "source": "@site/blog/2021-11-29-1st-slam.md",
+  "title": "Pirmasis slemas",
+  "description": "Manau, pagaliau bent iš dalies sugalvojau kaip išspręsti mano rašymo problemą. Bendriau tai galima pavadinti introverto-ekstroverto vidiniu konfliktu.  Jam tada dar priklausytų ir mokslas. Taigi. Problema tame, kad noriu būti ir introvertu ir ekstrovertu. Tik esmė tame, kad abu šitie dalykai užima 100% laiko. Nelabia galima paskirstyti. Gal kitiem ir gautųsi, bet man ne. Arba pilnai ekstrovertas, arba pilnai introvertas. Kadangi introvertiškumo jau buvau paragavęs 11-12 klasėse per karantiną (patiko), dabar kaip ir susidėliojo taip, kad bandau atsigriebti už ekstrovertiškumo nuslopinimą. Ir taip pasirinkęs dabar vis tik galvoju, kaip man rašyti. Kokią sistemą susigalvoti. Parašyti turiu daug ką, idėjų netrūksta. Trūksta tik laiko.",
+  "date": "2021-11-29T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "Lietuviški",
+      "permalink": "/blog/tags/lt",
+      "description": "Lietuviški"
+    }
+  ],
+  "readingTime": 1.655,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "general",
+      "lt"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "50 km pėsčiom",
+    "permalink": "/blog/2021/12/05/50km"
+  },
+  "nextItem": {
+    "title": "Čarli?",
+    "permalink": "/blog/2021/11/29/charlie"
+  }
+}

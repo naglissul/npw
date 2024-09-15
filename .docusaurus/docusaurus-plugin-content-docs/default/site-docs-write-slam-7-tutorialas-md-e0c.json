@@ -1,0 +1,26 @@
+{
+  "id": "write/slam/tutorialas",
+  "title": "Trumpas tutorialas, kaip sukurti visatą",
+  "description": "Įsivaizduok tokią situaciją – prarandi darbą arba esi išmestas iš mokyklos ar universiteto. Atrodo, kad čia",
+  "source": "@site/docs/write/slam/7-tutorialas.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/tutorialas",
+  "permalink": "/docs/write/slam/tutorialas",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Smuikas",
+    "permalink": "/docs/write/slam/smuikas"
+  },
+  "next": {
+    "title": "Be košmarų neįdomu",
+    "permalink": "/docs/write/slam/kosmarai"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2022/08/07/the-end",
+  "source": "@site/blog/2022-08-07-the-end.md",
+  "title": "The end",
+  "description": "Taigi. Atejo laikas padaryti tai, ką žadėjau – parašyti dokumentaciją. And in fact, I will do this in English. I have no idea why I stopped using English in my posts… The main idea was to write everything in English… Probably I was just too busy and lazy at the same time. Ech, whatever…",
+  "date": "2022-08-07T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "English",
+      "permalink": "/blog/tags/en",
+      "description": "English"
+    }
+  ],
+  "readingTime": 1.705,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "general",
+      "en"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Vertybės karo akivaizdoje _arba_ Why Marvel movies sometimes make me rage",
+    "permalink": "/blog/2023/02/18/marvel-rage"
+  },
+  "nextItem": {
+    "title": "Aštuntasis slemas devilstone",
+    "permalink": "/blog/2022/07/16/8th-slam"
+  }
+}

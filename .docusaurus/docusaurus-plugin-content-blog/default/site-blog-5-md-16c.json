@@ -2,20 +2,34 @@
   "permalink": "/blog/5",
   "source": "@site/blog/5.md",
   "title": "5",
-  "description": "ARCHIVE",
+  "description": "2021-08-31",
   "date": "2024-09-12T23:51:25.000Z",
-  "tags": [],
-  "readingTime": 1.355,
-  "hasTruncateMarker": false,
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "English",
+      "permalink": "/blog/tags/en",
+      "description": "English"
+    }
+  ],
+  "readingTime": 1.35,
+  "hasTruncateMarker": true,
   "authors": [],
-  "frontMatter": {},
-  "unlisted": false,
-  "prevItem": {
-    "title": "30",
-    "permalink": "/blog/30"
+  "frontMatter": {
+    "tags": [
+      "general",
+      "en"
+    ]
   },
+  "unlisted": false,
   "nextItem": {
-    "title": "6",
-    "permalink": "/blog/6"
+    "title": "Season \"3rd year of studies\" is closed",
+    "permalink": "/blog/2024/06/20/season-3rd-year"
   }
 }

@@ -1,0 +1,26 @@
+{
+  "id": "write/slam/kosmarai",
+  "title": "Be košmarų neįdomu",
+  "description": "Žinot tą posakį – „Kitame krante žuvys geriau kimba“. Arba kaip ten žmonės perfrazuoja – visada labiau",
+  "source": "@site/docs/write/slam/8-kosmarai.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/kosmarai",
+  "permalink": "/docs/write/slam/kosmarai",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trumpas tutorialas, kaip sukurti visatą",
+    "permalink": "/docs/write/slam/tutorialas"
+  },
+  "next": {
+    "title": "Odė tinkleliui nuo uodų",
+    "permalink": "/docs/write/slam/ode"
+  }
+}

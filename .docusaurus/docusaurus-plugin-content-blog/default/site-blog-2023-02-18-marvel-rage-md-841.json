@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2023/02/18/marvel-rage",
+  "source": "@site/blog/2023-02-18-marvel-rage.md",
+  "title": "Vertybės karo akivaizdoje _arba_ Why Marvel movies sometimes make me rage",
+  "description": "Prisijungimo prie blogo slaptažodį truputį pamiršau, tai todėl rašau čia.",
+  "date": "2023-02-18T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "Lietuviški",
+      "permalink": "/blog/tags/lt",
+      "description": "Lietuviški"
+    }
+  ],
+  "readingTime": 3.47,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "general",
+      "lt"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Productivity recap (documentation) - second study year",
+    "permalink": "/blog/2023/06/24/recap-2nd-year"
+  },
+  "nextItem": {
+    "title": "The end",
+    "permalink": "/blog/2022/08/07/the-end"
+  }
+}

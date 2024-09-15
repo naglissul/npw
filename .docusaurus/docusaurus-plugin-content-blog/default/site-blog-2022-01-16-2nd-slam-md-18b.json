@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2022/01/16/2nd-slam",
+  "source": "@site/blog/2022-01-16-2nd-slam.md",
+  "title": "Antrasis slemas",
+  "description": "jo… nėra laiko kažką labai rašyt. sesija…",
+  "date": "2022-01-16T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "Lietuviški",
+      "permalink": "/blog/tags/lt",
+      "description": "Lietuviški"
+    }
+  ],
+  "readingTime": 0.17,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "general",
+      "lt"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Trečiasis slemas",
+    "permalink": "/blog/2022/01/29/3rd-slam"
+  },
+  "nextItem": {
+    "title": "Lindy hopas",
+    "permalink": "/blog/2021/12/20/lindy"
+  }
+}

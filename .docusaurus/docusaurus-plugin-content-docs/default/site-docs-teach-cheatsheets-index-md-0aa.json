@@ -1,6 +1,6 @@
 {
   "id": "teach/cheatsheets/index",
-  "title": "Konspektai <sub>LT</sub>",
+  "title": "Konspektai",
   "description": "Gaminu kitus švietimo projektus. Pasirodo ne per labiausiai žmonėms reikia konspektų. Tačiau sukeliu, kuriuos bet kuriuo atveju turiu.",
   "source": "@site/docs/teach/cheatsheets/index.md",
   "sourceDirName": "teach/cheatsheets",
@@ -17,7 +17,7 @@
     "permalink": "/docs/teach/"
   },
   "next": {
-    "title": "0",
-    "permalink": "/docs/teach/cheatsheets/0"
+    "title": "IT VBE template",
+    "permalink": "/docs/teach/cheatsheets/it-vbe-old"
   }
 }

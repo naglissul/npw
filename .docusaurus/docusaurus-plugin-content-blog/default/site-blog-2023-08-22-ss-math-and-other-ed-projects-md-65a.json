@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2023/08/22/ss-math-and-other-ed-projects",
+  "source": "@site/blog/2023-08-22-ss-math-and-other-ed-projects.md",
+  "title": "ss-math-and-other-ed-projects",
+  "description": "date: 2023-08-22",
+  "date": "2023-08-22T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "Lietuviški",
+      "permalink": "/blog/tags/lt",
+      "description": "Lietuviški"
+    }
+  ],
+  "readingTime": 2.6,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "general",
+      "lt"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Pirmoji SS matematikos paskaita",
+    "permalink": "/blog/2023/09/10/first-ss-lecture"
+  },
+  "nextItem": {
+    "title": "Productivity recap (documentation) - second study year",
+    "permalink": "/blog/2023/06/24/recap-2nd-year"
+  }
+}

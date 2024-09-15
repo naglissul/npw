@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2023/06/24/recap-2nd-year",
+  "source": "@site/blog/2023-06-24-recap-2nd-year.md",
+  "title": "Productivity recap (documentation) - second study year",
+  "description": "With the end of yet another academic year I'm spitting out some documentation.",
+  "date": "2023-06-24T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "English",
+      "permalink": "/blog/tags/en",
+      "description": "English"
+    }
+  ],
+  "readingTime": 3.815,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "general",
+      "en"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "ss-math-and-other-ed-projects",
+    "permalink": "/blog/2023/08/22/ss-math-and-other-ed-projects"
+  },
+  "nextItem": {
+    "title": "Vertybės karo akivaizdoje _arba_ Why Marvel movies sometimes make me rage",
+    "permalink": "/blog/2023/02/18/marvel-rage"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2022/04/21/recap-magic",
+  "source": "@site/blog/2022-04-21-recap-magic.md",
+  "title": "ok. let’s recap ARBA pamirštas magiškas pasaulis",
+  "description": "When you are starting to forget in what even fields you have to do hundreds of things each, and when you’re asked what are your hobbies and what you do in your free time you just say that you do a bunch of things and don’t even bother to specify them, because it would take some time, it is probably time to recap everything.",
+  "date": "2022-04-21T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "Lietuviški",
+      "permalink": "/blog/tags/lt",
+      "description": "Lietuviški"
+    }
+  ],
+  "readingTime": 3.22,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "general",
+      "lt"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "emailai yra ziauriai kool",
+    "permalink": "/blog/2022/04/21/emails"
+  },
+  "nextItem": {
+    "title": "slm5",
+    "permalink": "/blog/2022/04/01/slm5"
+  }
+}

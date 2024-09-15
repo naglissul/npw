@@ -1,0 +1,26 @@
+{
+  "id": "write/slam/10-8",
+  "title": "Pirmasis sniegas. Pirmas skyrius: Klaidžiojimas. 8",
+  "description": "Pirma pamačiau kairįjį vartų kampą. Tada ir švelnios, žemos žolės lauką. Vėl.",
+  "source": "@site/docs/write/slam/10-8.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/10-8",
+  "permalink": "/docs/write/slam/10-8",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Odė tinkleliui nuo uodų",
+    "permalink": "/docs/write/slam/ode"
+  },
+  "next": {
+    "title": "Dar vienas sapnas",
+    "permalink": "/docs/write/slam/dar-vienas-sapnas"
+  }
+}

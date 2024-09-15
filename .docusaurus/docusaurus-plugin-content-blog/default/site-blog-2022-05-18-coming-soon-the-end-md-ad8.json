@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2022/05/18/coming-soon-the-end",
+  "source": "@site/blog/2022-05-18-coming-soon-the-end.md",
+  "title": "Coming soon – the end",
+  "description": "Taigi. Priėjau dar vieną perdegimą. Tik jį truputį sudėtingiau apibūdinti nei beprasmį pi skaitmenų kalimą. Jis ant tiek complex, kad aš net negalvoju vargintis jį suprasti, o tiesiog gražiai nuo jo pabėgti viską užapvalinant ir su visais atsisveikinant.",
+  "date": "2022-05-18T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "Lietuviški",
+      "permalink": "/blog/tags/lt",
+      "description": "Lietuviški"
+    }
+  ],
+  "readingTime": 1.53,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "general",
+      "lt"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Laikas sugrįžti",
+    "permalink": "/blog/2022/06/12/time-to-come-back"
+  },
+  "nextItem": {
+    "title": "slm6",
+    "permalink": "/blog/2022/05/03/slm6"
+  }
+}

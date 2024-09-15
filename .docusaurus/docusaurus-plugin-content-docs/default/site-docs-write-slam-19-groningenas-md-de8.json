@@ -1,0 +1,26 @@
+{
+  "id": "write/slam/groningenas",
+  "title": "Groningeno traukinys",
+  "description": "Nyderlanduose, Nijmegeno mieste, per vieną olandų kalbos pamoką užėjo kalba apie traukinius – jei konkrečiau, važiuojančius iš Groningeno. Ir kaip jie dažnai vietoj to, kad paprasčiausiai vėluotų, yra atšaukiami. Čia taip yra sužaidžiama su pinigais, mat kai traukiniai per daug vėluoja, reikia tai atlyginti pinigais (tiksliai neprisimenu kam), o kai traukinys atšaukiamas, niekam pinigų nereik mokėti.",
+  "source": "@site/docs/write/slam/19-groningenas.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/groningenas",
+  "permalink": "/docs/write/slam/groningenas",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 19,
+  "frontMatter": {
+    "sidebar_position": 19
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Išjunk ir įjunk",
+    "permalink": "/docs/write/slam/isjunk"
+  },
+  "next": {
+    "title": "People are so basic",
+    "permalink": "/docs/write/slam/people-are-basic"
+  }
+}

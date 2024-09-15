@@ -1,0 +1,26 @@
+{
+  "id": "write/slam/negaliu-patiketi",
+  "title": "Negaliu patikėti",
+  "description": "„Nelik sapne“ tęsinys",
+  "source": "@site/docs/write/slam/13-negaliu-patiketi.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/negaliu-patiketi",
+  "permalink": "/docs/write/slam/negaliu-patiketi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nelik sapne",
+    "permalink": "/docs/write/slam/nelik-sapne"
+  },
+  "next": {
+    "title": "Žudyti arba būti nužudytam",
+    "permalink": "/docs/write/slam/zudyti"
+  }
+}

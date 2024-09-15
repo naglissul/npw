@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2021/12/05/50km",
+  "source": "@site/blog/2021-12-05-50km.md",
+  "title": "50 km pėsčiom",
+  "description": "Šviesos. Kalėdinės šviesos ant priekyje einančio žmogaus batų. Užsidega ir užgesta. Kalėdinės, šalia keliu pravažiuojančių mašinų šviesos.  Jau net galvos nebesu pakėlęs, nes tai reikalauja papildomų jėgų, o jas reikia pasitaupyti, jei noriu kažkur dar nueiti. Bet tai jau nebelabai man rūpi. Eičiau vienas – seniai jau būčiau pasigavęs kokį autobusą ir nuvažiavęs namo. Bet jau nebe tiek ir toli. Na, 10 km gal dar liko, bet manau įveiksiu.",
+  "date": "2021-12-05T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "Lietuviški",
+      "permalink": "/blog/tags/lt",
+      "description": "Lietuviški"
+    }
+  ],
+  "readingTime": 2.605,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "general",
+      "lt"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Lindy hopas",
+    "permalink": "/blog/2021/12/20/lindy"
+  },
+  "nextItem": {
+    "title": "Pirmasis slemas",
+    "permalink": "/blog/2021/11/29/1st-slam"
+  }
+}

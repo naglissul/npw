@@ -1,8 +1,5 @@
 ---
-slug: on-teaching
-title: On teaching
-authors: naglissul
-tags: [general]
+tags: [general, en]
 ---
 
 # On teaching

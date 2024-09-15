@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2024/05/08/ideas-left-behind",
+  "source": "@site/blog/2024-05-08-ideas-left-behind.md",
+  "title": "Ideas left behind",
+  "description": "Since I am planning to abandon some of my ideas (or at least leave it for the future) and dive into other projects and plans with more priority,  I am sharing with you my ideas here and in several future blog posts. I'm open to collaboration. Or you can steal the ideas and build things yourself :D As if I care...",
+  "date": "2024-05-08T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "English",
+      "permalink": "/blog/tags/en",
+      "description": "English"
+    }
+  ],
+  "readingTime": 2.88,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "general",
+      "en"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Season \"3rd year of studies\" is closed",
+    "permalink": "/blog/2024/06/20/season-3rd-year"
+  },
+  "nextItem": {
+    "title": "On teaching",
+    "permalink": "/blog/2023/11/06/on-teaching"
+  }
+}

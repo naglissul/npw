@@ -1,21 +1,39 @@
 {
   "permalink": "/blog/2021/08/26/trumpai-apie-rasyma",
   "source": "@site/blog/2021-08-26-trumpai-apie-rasyma.md",
-  "title": "trumpai-apie-rasyma",
-  "description": "ARCHIVE",
+  "title": "Trumpai apie rašymą",
+  "description": "Beveik kiekvienąkart, kai žmonėm pasakau, kad rašau, turiu dar prie to ir išdėstyti tą patį monologą apie savo neįprastą (ko gero) rašymo būdą. Todėl dabar viską parašau čia.",
   "date": "2021-08-26T00:00:00.000Z",
-  "tags": [],
-  "readingTime": 4.91,
-  "hasTruncateMarker": false,
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "Lietuviški",
+      "permalink": "/blog/tags/lt",
+      "description": "Lietuviški"
+    }
+  ],
+  "readingTime": 4.89,
+  "hasTruncateMarker": true,
   "authors": [],
-  "frontMatter": {},
+  "frontMatter": {
+    "tags": [
+      "general",
+      "lt"
+    ]
+  },
   "unlisted": false,
   "prevItem": {
-    "title": "collatz-conjecture",
-    "permalink": "/blog/2021/08/31/collatz-conjecture"
+    "title": "Linear algebra (unfinished)",
+    "permalink": "/blog/2021/08/31/linear-algebra"
   },
   "nextItem": {
-    "title": "nothing-makes-sense",
+    "title": "Nothing makes sense any more",
     "permalink": "/blog/2021/08/20/nothing-makes-sense"
   }
 }

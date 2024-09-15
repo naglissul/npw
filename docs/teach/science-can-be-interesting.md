@@ -1,4 +1,4 @@
-# Mokslas gali būti įdomus (MGBĮ) <sub>LT</sub>
+# Mokslas gali būti įdomus (MGBĮ)
 
 > Mirus iniciatyva, šiuo metu niekas nevyksta. Paskutinė paskaita buvo 2022-10-13
 
@@ -8,9 +8,9 @@
 
 Paskaitos iš bet ko (beveik*) apie bet ką, bet kam (beveik*). Svarbu tik kad būtų įdomu. Toks ir tikslas – dalintis mokslu, kurio žinios verda viduje, bet nėra kaip daryti tarptautinių konferencijų.
 
-STUDENTAI (ir ne tik*), ATEIKIT PAPASAKOTI IR PAKLAUSYTI
+STUDENTAI (ir ne tik\*), ATEIKIT PAPASAKOTI IR PAKLAUSYTI
 
-*Vienintelis klausytojų ir pasakotojų limitas (organizuojant VU auditorijose) yra VU nuostatai, taisyklės, susitarimai bei sveikas protas
+\*Vienintelis klausytojų ir pasakotojų limitas (organizuojant VU auditorijose) yra VU nuostatai, taisyklės, susitarimai bei sveikas protas
 
 FB grupė: [https://www.facebook.com/groups/1293131374781480](https://www.facebook.com/groups/1293131374781480)
 

@@ -1,6 +1,6 @@
 # Kurtinančiai tyli naktis arba Ką padarysi...
 
-![cover](./d-n-cover.png)
+<img src="/img/d-n-cover.png" alt="cover" width="500" />
 
 ## About
 

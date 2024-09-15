@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2022/07/16/8th-slam",
+  "source": "@site/blog/2022-07-16-8th-slam.md",
+  "title": "Aštuntasis slemas devilstone",
+  "description": "Taip, birželio mėnesį nebuvo slemo, buvo slemas liepos 15d. devilstone. Apie tai plačiau vėliau, kai parašysiu žadėtąjį postą apie atsisveikinimą su pirmuoju studentavimo etapu. Sėkmės skaitant",
+  "date": "2022-07-16T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "Lietuviški",
+      "permalink": "/blog/tags/lt",
+      "description": "Lietuviški"
+    }
+  ],
+  "readingTime": 0.36,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "general",
+      "lt"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "The end",
+    "permalink": "/blog/2022/08/07/the-end"
+  },
+  "nextItem": {
+    "title": "Laikas sugrįžti",
+    "permalink": "/blog/2022/06/12/time-to-come-back"
+  }
+}

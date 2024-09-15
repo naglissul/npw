@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2023/10/05/het-is-genoeg",
+  "source": "@site/blog/2023-10-05-het-is-genoeg.md",
+  "title": "Het is genoeg.",
+  "description": "I know, the title is not in English. But who cares...",
+  "date": "2023-10-05T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "English",
+      "permalink": "/blog/tags/en",
+      "description": "English"
+    }
+  ],
+  "readingTime": 2.565,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "general",
+      "en"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "On teaching",
+    "permalink": "/blog/2023/11/06/on-teaching"
+  },
+  "nextItem": {
+    "title": "Pirmoji SS matematikos paskaita",
+    "permalink": "/blog/2023/09/10/first-ss-lecture"
+  }
+}

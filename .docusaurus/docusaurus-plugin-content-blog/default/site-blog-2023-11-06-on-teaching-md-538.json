@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/on-teaching",
+  "permalink": "/blog/2023/11/06/on-teaching",
   "source": "@site/blog/2023-11-06-on-teaching.md",
   "title": "On teaching",
   "description": "A few ideas that could possibly make a huge impact on education",
@@ -9,34 +9,31 @@
       "inline": false,
       "label": "General",
       "permalink": "/blog/tags/general",
-      "description": "General (draft)"
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "English",
+      "permalink": "/blog/tags/en",
+      "description": "English"
     }
   ],
   "readingTime": 2.485,
   "hasTruncateMarker": true,
-  "authors": [
-    {
-      "name": "Naglis Šuliokas",
-      "title": "Vilnius University student",
-      "key": "naglissul",
-      "page": null
-    }
-  ],
+  "authors": [],
   "frontMatter": {
-    "slug": "on-teaching",
-    "title": "On teaching",
-    "authors": "naglissul",
     "tags": [
-      "general"
+      "general",
+      "en"
     ]
   },
   "unlisted": false,
   "prevItem": {
-    "title": "9",
-    "permalink": "/blog/9"
+    "title": "Ideas left behind",
+    "permalink": "/blog/2024/05/08/ideas-left-behind"
   },
   "nextItem": {
-    "title": "collatz-conjecture",
-    "permalink": "/blog/2021/08/31/collatz-conjecture"
+    "title": "Het is genoeg.",
+    "permalink": "/blog/2023/10/05/het-is-genoeg"
   }
 }

@@ -1,0 +1,23 @@
+{
+  "id": "write/slam/2021-11-25-trumpas-sapnas",
+  "title": "Trumpas sapnas",
+  "description": "Kaip? Kaip aš čia atsidūriau? Sniegas pabiro ant žemės. Eglės šaka sulingavo. Ir daugiau tylu. Bet koks",
+  "source": "@site/docs/write/slam/2021-11-25-trumpas-sapnas.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/2021-11-25-trumpas-sapnas",
+  "permalink": "/docs/write/slam/2021-11-25-trumpas-sapnas",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2 dalis. Pernykštis sniegas. Penktas skyrius: Kelionė",
+    "permalink": "/docs/write/slam/2"
+  },
+  "next": {
+    "title": "Muzika. Trumpinys",
+    "permalink": "/docs/write/slam/3"
+  }
+}

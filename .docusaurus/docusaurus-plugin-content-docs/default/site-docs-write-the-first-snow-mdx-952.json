@@ -1,0 +1,23 @@
+{
+  "id": "write/the-first-snow",
+  "title": "Pirmasis sniegas",
+  "description": "Plot",
+  "source": "@site/docs/write/the-first-snow.mdx",
+  "sourceDirName": "write",
+  "slug": "/write/the-first-snow",
+  "permalink": "/docs/write/the-first-snow",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "People are so basic",
+    "permalink": "/docs/write/slam/people-are-basic"
+  },
+  "next": {
+    "title": "Pernykštis sniegas",
+    "permalink": "/docs/write/the-last-year-snow"
+  }
+}

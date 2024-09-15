@@ -1,21 +1,39 @@
 {
   "permalink": "/blog/2021/08/20/nothing-makes-sense",
   "source": "@site/blog/2021-08-20-nothing-makes-sense.md",
-  "title": "nothing-makes-sense",
-  "description": "ARCHIVE",
+  "title": "Nothing makes sense any more",
+  "description": "And this is where I stopped. And pondered. About everything.",
   "date": "2021-08-20T00:00:00.000Z",
-  "tags": [],
-  "readingTime": 4.965,
-  "hasTruncateMarker": false,
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "English",
+      "permalink": "/blog/tags/en",
+      "description": "English"
+    }
+  ],
+  "readingTime": 4.935,
+  "hasTruncateMarker": true,
   "authors": [],
-  "frontMatter": {},
+  "frontMatter": {
+    "tags": [
+      "general",
+      "en"
+    ]
+  },
   "unlisted": false,
   "prevItem": {
-    "title": "trumpai-apie-rasyma",
+    "title": "Trumpai apie rašymą",
     "permalink": "/blog/2021/08/26/trumpai-apie-rasyma"
   },
   "nextItem": {
-    "title": "ideas-for-the-future",
+    "title": "Ideas for the future",
     "permalink": "/blog/2021/08/15/ideas-for-the-future"
   }
 }

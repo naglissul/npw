@@ -1,4 +1,4 @@
-# Mokslo gildija <sub>LT</sub>
+# Mokslo gildija
 
 Univeras arba mokykla nuvylė, bet vis tiek nori išmokti dalykų? Mokykis savarankiškai ir pristatyk, ką išmoksti, kitiems!
 
@@ -8,7 +8,7 @@ Tai studentų (bei moksleivių), įvairių mokslo sričių entuziastų grupė, r
 
 Facebook grupė: https://www.facebook.com/groups/1424165538479376/
 
-Paskutinis vykęs susitikimas, aštuntasis, buvo liepos 11 d. 
+Paskutinis vykęs susitikimas, aštuntasis, buvo liepos 11 d.
 
 Ateityje galima:
 
@@ -22,7 +22,6 @@ Ateityje galima:
 ## Senoji idėja ir senas kvietimas (išskleisti)
 
 </summary>
-
 
 ### Kvietimas
 
@@ -52,8 +51,7 @@ Lauksiu žinių!
 
 P. S. Pristatymai būtų po maždaug 15 minučių
 
-
-### Daugiau apie idėją 
+### Daugiau apie idėją
 
 Tai bus dar vienas (jau trečiasis, regis) bandymas padaryti kažkokią belenkaip gerą ir naudingą mokymosi iniciatyvą, paremta savideterminacijos teorija (vidine/intrinsic motyvacija) ir savarankišku mokymusi bei informacijos apie mokslo galimybes plėtimu. Po nelabai nuvykusios MGBĮ iniciatyvos, bandysiu rinkti norinčius mokytis savarankiškai žmones, (?ne-)turinčius tam šaltinius (begalinį internetą :D), bet neturinčius materialaus tikslo / paskatinimo paskatinimo iš aplinkos. Į gildiją surinkti "meistrai" galės "dirbti savo amatą", t.y. mokytis savo field dalyką, kas savaitę pristatinėjant "grandis", t.y. mažus įgilintus mokslo gabaliukus, iš kurių vėliau galima būtų sudėti vieną didelę grandinę...
 

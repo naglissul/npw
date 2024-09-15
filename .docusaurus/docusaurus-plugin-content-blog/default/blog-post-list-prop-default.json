@@ -2,34 +2,34 @@
   "title": "Recent posts",
   "items": [
     {
-      "title": "10",
-      "permalink": "/blog/10",
+      "title": "Season \"3rd year of studies\" is closed",
+      "permalink": "/blog/2024/06/20/season-3rd-year",
       "unlisted": false,
-      "date": "2024-09-12T23:51:25.000Z"
+      "date": "2024-06-20T00:00:00.000Z"
     },
     {
-      "title": "11",
-      "permalink": "/blog/11",
+      "title": "Ideas left behind",
+      "permalink": "/blog/2024/05/08/ideas-left-behind",
       "unlisted": false,
-      "date": "2024-09-12T23:51:25.000Z"
+      "date": "2024-05-08T00:00:00.000Z"
     },
     {
-      "title": "12",
-      "permalink": "/blog/12",
+      "title": "On teaching",
+      "permalink": "/blog/2023/11/06/on-teaching",
       "unlisted": false,
-      "date": "2024-09-12T23:51:25.000Z"
+      "date": "2023-11-06T00:00:00.000Z"
     },
     {
-      "title": "13",
-      "permalink": "/blog/13",
+      "title": "Het is genoeg.",
+      "permalink": "/blog/2023/10/05/het-is-genoeg",
       "unlisted": false,
-      "date": "2024-09-12T23:51:25.000Z"
+      "date": "2023-10-05T00:00:00.000Z"
     },
     {
-      "title": "14",
-      "permalink": "/blog/14",
+      "title": "Pirmoji SS matematikos paskaita",
+      "permalink": "/blog/2023/09/10/first-ss-lecture",
       "unlisted": false,
-      "date": "2024-09-12T23:51:25.000Z"
+      "date": "2023-09-10T00:00:00.000Z"
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2021/12/20/lindy",
+  "source": "@site/blog/2021-12-20-lindy.md",
+  "title": "Lindy hopas",
+  "description": "Tai žodžiu. Grįžtant prie pačios pradžios. Rugsėjis vedė prie veiklų ieškojimo, veiklų ieškojimas vedė prie pažinčių, pažintys vedė prie VU žygeivių klubo, žygeivių klubas vedė prie laipiojimo,  laipiojimas vedė prie lindy hopo šokių. Ir štai, gruodžio 18 d. aš jau šoku kartu su kitom šešiom porom šokį priešais visą VU Didžiosios Aulos auditoriją, Oktavos orkestro fone.",
+  "date": "2021-12-20T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "Lietuviški",
+      "permalink": "/blog/tags/lt",
+      "description": "Lietuviški"
+    }
+  ],
+  "readingTime": 0.97,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "general",
+      "lt"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Antrasis slemas",
+    "permalink": "/blog/2022/01/16/2nd-slam"
+  },
+  "nextItem": {
+    "title": "50 km pėsčiom",
+    "permalink": "/blog/2021/12/05/50km"
+  }
+}

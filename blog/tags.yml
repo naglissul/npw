@@ -1,4 +1,14 @@
 general:
   label: General
   permalink: /general
-  description: General (draft)
+  description: General
+
+en:
+  label: English
+  permalink: /en
+  description: English
+
+lt:
+  label: Lietuviški
+  permalink: /lt
+  description: Lietuviški

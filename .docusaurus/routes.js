@@ -39,62 +39,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '965'),
-    exact: true
-  },
-  {
-    path: '/blog/10',
-    component: ComponentCreator('/blog/10', '321'),
-    exact: true
-  },
-  {
-    path: '/blog/11',
-    component: ComponentCreator('/blog/11', '59b'),
-    exact: true
-  },
-  {
-    path: '/blog/12',
-    component: ComponentCreator('/blog/12', 'ab7'),
-    exact: true
-  },
-  {
-    path: '/blog/13',
-    component: ComponentCreator('/blog/13', '89b'),
-    exact: true
-  },
-  {
-    path: '/blog/14',
-    component: ComponentCreator('/blog/14', '369'),
-    exact: true
-  },
-  {
-    path: '/blog/15',
-    component: ComponentCreator('/blog/15', 'a25'),
-    exact: true
-  },
-  {
-    path: '/blog/16',
-    component: ComponentCreator('/blog/16', '01b'),
-    exact: true
-  },
-  {
-    path: '/blog/17',
-    component: ComponentCreator('/blog/17', 'e68'),
-    exact: true
-  },
-  {
-    path: '/blog/18',
-    component: ComponentCreator('/blog/18', '7ab'),
-    exact: true
-  },
-  {
-    path: '/blog/19',
-    component: ComponentCreator('/blog/19', '0b9'),
-    exact: true
-  },
-  {
-    path: '/blog/20',
-    component: ComponentCreator('/blog/20', '1e3'),
+    component: ComponentCreator('/blog', '9fd'),
     exact: true
   },
   {
@@ -118,83 +63,143 @@ export default [
     exact: true
   },
   {
+    path: '/blog/2021/08/31/abstract-algebra',
+    component: ComponentCreator('/blog/2021/08/31/abstract-algebra', '168'),
+    exact: true
+  },
+  {
     path: '/blog/2021/08/31/collatz-conjecture',
     component: ComponentCreator('/blog/2021/08/31/collatz-conjecture', '04d'),
     exact: true
   },
   {
-    path: '/blog/21',
-    component: ComponentCreator('/blog/21', 'f8f'),
+    path: '/blog/2021/08/31/linear-algebra',
+    component: ComponentCreator('/blog/2021/08/31/linear-algebra', 'bf0'),
     exact: true
   },
   {
-    path: '/blog/22',
-    component: ComponentCreator('/blog/22', '7a3'),
+    path: '/blog/2021/10/20/everything',
+    component: ComponentCreator('/blog/2021/10/20/everything', 'b8f'),
     exact: true
   },
   {
-    path: '/blog/23',
-    component: ComponentCreator('/blog/23', '77c'),
+    path: '/blog/2021/11/29/1st-slam',
+    component: ComponentCreator('/blog/2021/11/29/1st-slam', 'd10'),
     exact: true
   },
   {
-    path: '/blog/24',
-    component: ComponentCreator('/blog/24', 'e20'),
+    path: '/blog/2021/11/29/charlie',
+    component: ComponentCreator('/blog/2021/11/29/charlie', 'edc'),
     exact: true
   },
   {
-    path: '/blog/25',
-    component: ComponentCreator('/blog/25', 'd75'),
+    path: '/blog/2021/12/05/50km',
+    component: ComponentCreator('/blog/2021/12/05/50km', '7b6'),
     exact: true
   },
   {
-    path: '/blog/26',
-    component: ComponentCreator('/blog/26', 'd04'),
+    path: '/blog/2021/12/20/lindy',
+    component: ComponentCreator('/blog/2021/12/20/lindy', '1d2'),
     exact: true
   },
   {
-    path: '/blog/27',
-    component: ComponentCreator('/blog/27', '8e5'),
+    path: '/blog/2022/01/16/2nd-slam',
+    component: ComponentCreator('/blog/2022/01/16/2nd-slam', '57b'),
     exact: true
   },
   {
-    path: '/blog/28',
-    component: ComponentCreator('/blog/28', '579'),
+    path: '/blog/2022/01/29/3rd-slam',
+    component: ComponentCreator('/blog/2022/01/29/3rd-slam', '946'),
     exact: true
   },
   {
-    path: '/blog/29',
-    component: ComponentCreator('/blog/29', 'f2a'),
+    path: '/blog/2022/03/18/4th-slam',
+    component: ComponentCreator('/blog/2022/03/18/4th-slam', '92f'),
     exact: true
   },
   {
-    path: '/blog/30',
-    component: ComponentCreator('/blog/30', '225'),
+    path: '/blog/2022/03/18/pi',
+    component: ComponentCreator('/blog/2022/03/18/pi', 'a0f'),
     exact: true
   },
   {
-    path: '/blog/5',
-    component: ComponentCreator('/blog/5', 'bc0'),
+    path: '/blog/2022/04/01/slm5',
+    component: ComponentCreator('/blog/2022/04/01/slm5', 'ba1'),
     exact: true
   },
   {
-    path: '/blog/6',
-    component: ComponentCreator('/blog/6', '236'),
+    path: '/blog/2022/04/21/emails',
+    component: ComponentCreator('/blog/2022/04/21/emails', '875'),
     exact: true
   },
   {
-    path: '/blog/7',
-    component: ComponentCreator('/blog/7', '4fc'),
+    path: '/blog/2022/04/21/recap-magic',
+    component: ComponentCreator('/blog/2022/04/21/recap-magic', 'fac'),
     exact: true
   },
   {
-    path: '/blog/8',
-    component: ComponentCreator('/blog/8', '718'),
+    path: '/blog/2022/05/03/slm6',
+    component: ComponentCreator('/blog/2022/05/03/slm6', '552'),
     exact: true
   },
   {
-    path: '/blog/9',
-    component: ComponentCreator('/blog/9', 'c8c'),
+    path: '/blog/2022/05/18/coming-soon-the-end',
+    component: ComponentCreator('/blog/2022/05/18/coming-soon-the-end', 'cdd'),
+    exact: true
+  },
+  {
+    path: '/blog/2022/06/12/time-to-come-back',
+    component: ComponentCreator('/blog/2022/06/12/time-to-come-back', '3b6'),
+    exact: true
+  },
+  {
+    path: '/blog/2022/07/16/8th-slam',
+    component: ComponentCreator('/blog/2022/07/16/8th-slam', '1d5'),
+    exact: true
+  },
+  {
+    path: '/blog/2022/08/07/the-end',
+    component: ComponentCreator('/blog/2022/08/07/the-end', '4da'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/02/18/marvel-rage',
+    component: ComponentCreator('/blog/2023/02/18/marvel-rage', '000'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/06/24/recap-2nd-year',
+    component: ComponentCreator('/blog/2023/06/24/recap-2nd-year', '4de'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/08/22/ss-math-and-other-ed-projects',
+    component: ComponentCreator('/blog/2023/08/22/ss-math-and-other-ed-projects', '8ca'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/09/10/first-ss-lecture',
+    component: ComponentCreator('/blog/2023/09/10/first-ss-lecture', '407'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/10/05/het-is-genoeg',
+    component: ComponentCreator('/blog/2023/10/05/het-is-genoeg', '00d'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/11/06/on-teaching',
+    component: ComponentCreator('/blog/2023/11/06/on-teaching', '8e5'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/05/08/ideas-left-behind',
+    component: ComponentCreator('/blog/2024/05/08/ideas-left-behind', 'd25'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/06/20/season-3rd-year',
+    component: ComponentCreator('/blog/2024/06/20/season-3rd-year', '151'),
     exact: true
   },
   {
@@ -203,23 +208,13 @@ export default [
     exact: true
   },
   {
-    path: '/blog/authors',
-    component: ComponentCreator('/blog/authors', '0b7'),
-    exact: true
-  },
-  {
-    path: '/blog/on-teaching',
-    component: ComponentCreator('/blog/on-teaching', '0c8'),
-    exact: true
-  },
-  {
     path: '/blog/page/2',
-    component: ComponentCreator('/blog/page/2', 'e25'),
+    component: ComponentCreator('/blog/page/2', '1cd'),
     exact: true
   },
   {
     path: '/blog/page/3',
-    component: ComponentCreator('/blog/page/3', '857'),
+    component: ComponentCreator('/blog/page/3', '1df'),
     exact: true
   },
   {
@@ -233,21 +228,56 @@ export default [
     exact: true
   },
   {
+    path: '/blog/tags/en',
+    component: ComponentCreator('/blog/tags/en', '622'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/en/page/2',
+    component: ComponentCreator('/blog/tags/en/page/2', 'a47'),
+    exact: true
+  },
+  {
     path: '/blog/tags/general',
-    component: ComponentCreator('/blog/tags/general', '5c4'),
+    component: ComponentCreator('/blog/tags/general', '3c8'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/general/page/2',
+    component: ComponentCreator('/blog/tags/general/page/2', '632'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/general/page/3',
+    component: ComponentCreator('/blog/tags/general/page/3', 'ac9'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/general/page/4',
+    component: ComponentCreator('/blog/tags/general/page/4', '198'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/lt',
+    component: ComponentCreator('/blog/tags/lt', '160'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/lt/page/2',
+    component: ComponentCreator('/blog/tags/lt/page/2', '001'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '482'),
+    component: ComponentCreator('/docs', 'ad8'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '4b7'),
+        component: ComponentCreator('/docs', 'a33'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '23e'),
+            component: ComponentCreator('/docs', 'e40'),
             routes: [
               {
                 path: '/docs/code/',
@@ -274,26 +304,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/teach/cheatsheets/0',
-                component: ComponentCreator('/docs/teach/cheatsheets/0', '64c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/teach/cheatsheets/1',
-                component: ComponentCreator('/docs/teach/cheatsheets/1', '590'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/teach/cheatsheets/3',
-                component: ComponentCreator('/docs/teach/cheatsheets/3', '7a3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/teach/cheatsheets/it-vbe-old',
                 component: ComponentCreator('/docs/teach/cheatsheets/it-vbe-old', '9f1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/teach/cheatsheets/oscillations-8th-grade',
+                component: ComponentCreator('/docs/teach/cheatsheets/oscillations-8th-grade', '9b1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/teach/cheatsheets/rate-problems',
+                component: ComponentCreator('/docs/teach/cheatsheets/rate-problems', 'd16'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -352,128 +376,128 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/write/slam/0',
-                component: ComponentCreator('/docs/write/slam/0', '955'),
+                path: '/docs/write/slam/10-8',
+                component: ComponentCreator('/docs/write/slam/10-8', 'ef8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/write/slam/1',
-                component: ComponentCreator('/docs/write/slam/1', '3bc'),
+                path: '/docs/write/slam/dar-vienas-sapnas',
+                component: ComponentCreator('/docs/write/slam/dar-vienas-sapnas', '0cb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/write/slam/10',
-                component: ComponentCreator('/docs/write/slam/10', 'f16'),
+                path: '/docs/write/slam/groningenas',
+                component: ComponentCreator('/docs/write/slam/groningenas', '2d4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/write/slam/11',
-                component: ComponentCreator('/docs/write/slam/11', 'f6f'),
+                path: '/docs/write/slam/isjunk',
+                component: ComponentCreator('/docs/write/slam/isjunk', '14d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/write/slam/12',
-                component: ComponentCreator('/docs/write/slam/12', 'fba'),
+                path: '/docs/write/slam/karstis',
+                component: ComponentCreator('/docs/write/slam/karstis', '848'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/write/slam/13',
-                component: ComponentCreator('/docs/write/slam/13', '62b'),
+                path: '/docs/write/slam/kelione',
+                component: ComponentCreator('/docs/write/slam/kelione', '3f7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/write/slam/14',
-                component: ComponentCreator('/docs/write/slam/14', '835'),
+                path: '/docs/write/slam/kosmarai',
+                component: ComponentCreator('/docs/write/slam/kosmarai', 'ace'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/write/slam/15',
-                component: ComponentCreator('/docs/write/slam/15', 'b7d'),
+                path: '/docs/write/slam/laikas',
+                component: ComponentCreator('/docs/write/slam/laikas', 'c10'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/write/slam/16',
-                component: ComponentCreator('/docs/write/slam/16', '849'),
+                path: '/docs/write/slam/muzika',
+                component: ComponentCreator('/docs/write/slam/muzika', 'e3d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/write/slam/17',
-                component: ComponentCreator('/docs/write/slam/17', '4d2'),
+                path: '/docs/write/slam/negaliu-patiketi',
+                component: ComponentCreator('/docs/write/slam/negaliu-patiketi', 'f75'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/write/slam/18',
-                component: ComponentCreator('/docs/write/slam/18', '5fe'),
+                path: '/docs/write/slam/nelik-sapne',
+                component: ComponentCreator('/docs/write/slam/nelik-sapne', '3a0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/write/slam/19',
-                component: ComponentCreator('/docs/write/slam/19', '442'),
+                path: '/docs/write/slam/nespejau',
+                component: ComponentCreator('/docs/write/slam/nespejau', '382'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/write/slam/2',
-                component: ComponentCreator('/docs/write/slam/2', '06b'),
+                path: '/docs/write/slam/ode',
+                component: ComponentCreator('/docs/write/slam/ode', 'c98'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/write/slam/3',
-                component: ComponentCreator('/docs/write/slam/3', '1da'),
+                path: '/docs/write/slam/people-are-basic',
+                component: ComponentCreator('/docs/write/slam/people-are-basic', '6bf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/write/slam/4',
-                component: ComponentCreator('/docs/write/slam/4', '743'),
+                path: '/docs/write/slam/smuikas',
+                component: ComponentCreator('/docs/write/slam/smuikas', '427'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/write/slam/5',
-                component: ComponentCreator('/docs/write/slam/5', '458'),
+                path: '/docs/write/slam/suodziai',
+                component: ComponentCreator('/docs/write/slam/suodziai', 'ea0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/write/slam/6',
-                component: ComponentCreator('/docs/write/slam/6', '31d'),
+                path: '/docs/write/slam/trumpas-sapnas',
+                component: ComponentCreator('/docs/write/slam/trumpas-sapnas', '729'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/write/slam/7',
-                component: ComponentCreator('/docs/write/slam/7', '5d6'),
+                path: '/docs/write/slam/tutorialas',
+                component: ComponentCreator('/docs/write/slam/tutorialas', 'a2b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/write/slam/8',
-                component: ComponentCreator('/docs/write/slam/8', '120'),
+                path: '/docs/write/slam/vabalai',
+                component: ComponentCreator('/docs/write/slam/vabalai', '49c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/write/slam/9',
-                component: ComponentCreator('/docs/write/slam/9', 'f3f'),
+                path: '/docs/write/slam/zudyti',
+                component: ComponentCreator('/docs/write/slam/zudyti', '7b0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/write/the-first-snow',
-                component: ComponentCreator('/docs/write/the-first-snow', '09f'),
+                component: ComponentCreator('/docs/write/the-first-snow', '794'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

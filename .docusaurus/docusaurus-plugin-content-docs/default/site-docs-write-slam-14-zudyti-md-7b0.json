@@ -1,0 +1,26 @@
+{
+  "id": "write/slam/zudyti",
+  "title": "Žudyti arba būti nužudytam",
+  "description": "by Audrius",
+  "source": "@site/docs/write/slam/14-zudyti.md",
+  "sourceDirName": "write/slam",
+  "slug": "/write/slam/zudyti",
+  "permalink": "/docs/write/slam/zudyti",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Negaliu patikėti",
+    "permalink": "/docs/write/slam/negaliu-patiketi"
+  },
+  "next": {
+    "title": "Suodžiai",
+    "permalink": "/docs/write/slam/suodziai"
+  }
+}

@@ -2,20 +2,38 @@
   "permalink": "/blog/12",
   "source": "@site/blog/12.md",
   "title": "12",
-  "description": "ARCHIVE",
+  "description": "2022-01-16",
   "date": "2024-09-12T23:51:25.000Z",
-  "tags": [],
-  "readingTime": 0.175,
-  "hasTruncateMarker": false,
+  "tags": [
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/blog/tags/general",
+      "description": "General"
+    },
+    {
+      "inline": false,
+      "label": "Lietuviški",
+      "permalink": "/blog/tags/lt",
+      "description": "Lietuviški"
+    }
+  ],
+  "readingTime": 0.19,
+  "hasTruncateMarker": true,
   "authors": [],
-  "frontMatter": {},
+  "frontMatter": {
+    "tags": [
+      "general",
+      "lt"
+    ]
+  },
   "unlisted": false,
   "prevItem": {
     "title": "11",
     "permalink": "/blog/11"
   },
   "nextItem": {
-    "title": "13",
-    "permalink": "/blog/13"
+    "title": "5",
+    "permalink": "/blog/5"
   }
 }
