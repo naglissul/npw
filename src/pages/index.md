@@ -5,9 +5,13 @@ title: Home page
 # Home
 
 :::info
-Registracijos nuoroda į grupines 12 kl. matematikos pamokas nuo rugsėjo 18 d.
+Registracijos nuoroda į grupines 11 kl. matematikos pamokas nuo spalio 1 d.
 
-https://forms.gle/gcM3qojBuELzgpBE6
+https://forms.gle/zeFC6DkBnffvaoe99
+:::
+
+:::info
+Registracija į 12 kl. pamokas uždaryta, tačiau vis tiek galite parašyti el. paštu
 :::
 
 🎵 Metronomy, Faux Real, Miki - Contact High 🎵
