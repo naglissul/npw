@@ -1,5 +1,5 @@
 ---
-tags: [general, en]
+tags: [docs, en]
 ---
 
 # Season "3rd year of studies" is closed

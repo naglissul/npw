@@ -1,5 +1,5 @@
 ---
-tags: [general, en]
+tags: [docs, en]
 ---
 
 # Productivity recap (documentation) - second study year

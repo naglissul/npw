@@ -1,5 +1,5 @@
 ---
-tags: [general, lt]
+tags: [docs, lt]
 ---
 
 date: 2023-08-22

@@ -1,5 +1,5 @@
 ---
-tags: [general, en]
+tags: [learn, en]
 ---
 
 # Linear algebra (unfinished)

@@ -1,5 +1,5 @@
 ---
-tags: [general, lt]
+tags: [fiction, lt]
 ---
 
 # Aš išsiaiškinau viską

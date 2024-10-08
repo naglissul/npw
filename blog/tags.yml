@@ -1,7 +1,7 @@
 general:
   label: General
   permalink: /general
-  description: General
+  description: All the general things - thoughts, diaries, stories etc.
 
 en:
   label: English
@@ -12,3 +12,28 @@ lt:
   label: Lietuviški
   permalink: /lt
   description: Lietuviški
+
+fiction:
+  label: Fiction
+  permalink: /fiction
+  description: Fiction
+
+docs:
+  label: Documenting life
+  permalink: /docs
+  description: Documenting what I have done or what I am planning to do
+
+activities:
+  label: Activities and initiatives
+  permalink: /activities
+  description: Activities, initiatives, events
+
+learn:
+  label: Learning theory
+  permalink: /learn
+  description: Learning theoretical things - Computer Science, Math, Physics etc.
+
+practise:
+  label: Mini learning projects
+  permalink: /practise
+  description: Mini projects/tasks to do to explore various corners of (computer) science

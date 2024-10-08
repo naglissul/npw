@@ -102,7 +102,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `© ${new Date().getFullYear()} Naglis Šuliokas. v3.0.0 Last updated 2024-09-11`,
+      copyright: `© ${new Date().getFullYear()} Naglis Šuliokas. v3.0.0 Last updated 2024-10-08`,
     },
     prism: {
       theme: prismThemes.github,

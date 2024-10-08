@@ -1,5 +1,5 @@
 ---
-tags: [general, lt]
+tags: [activities, lt]
 ---
 
 # Pirmoji SS matematikos paskaita
