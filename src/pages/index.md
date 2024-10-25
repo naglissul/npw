@@ -4,15 +4,7 @@ title: Home page
 
 # Home
 
-:::info
-Registracijos nuoroda į grupines 11 kl. matematikos pamokas nuo spalio 1 d.
-
-https://forms.gle/zeFC6DkBnffvaoe99
-:::
-
-:::info
-Registracija į 12 kl. pamokas uždaryta, tačiau vis tiek galite parašyti el. paštu
-:::
+Sorry for the mess, currently thinking on how to structure this thing. But you will find all the info you need here.
 
 🎵 Metronomy, Faux Real, Miki - Contact High 🎵
 
@@ -22,13 +14,21 @@ _... portfolio-like website/blog, to have all the things, I want to share, categ
 
 ## Featured
 
+### [Mokslo gildija] <sub>LT</sub>
+
+Kvietimas paklausyti arba pravesti mini paskaitas (moksleiviams) apie savo mokslo sritį & more.
+
+## ALSO
+
+[BOE](/docs/teach/book-of-everything)
+
+### [skafis.lt] <sub>LT</sub>
+
+Testų generavimo priemonė, testavimo aplinkos beta versija, užduočių bankas.
+
 ### [Pirmasis sniegas] <sub>LT</sub>
 
 Fantastikos su psichologijos elementais knyga apie sapnus
-
-### [Mokslo gildija] <sub>LT</sub>
-
-Kvietimas paklausyti arba pravesti mini paskaitas (moksleiviams) apie savo mokslo sritį
 
 ### [vbesort.lt] <sub>LT</sub>
 
@@ -37,10 +37,6 @@ Surūšiuotos VBE ir PUPP užduotys
 ### [sci-dict.org] <sub>LT</sub>
 
 Mokslinis žodynas
-
-### [skafis.lt] <sub>LT</sub>
-
-Testų generavimo priemonė, testavimo aplinkos beta versija, užduočių bankas.
 
 ### [Write (Vilniaus knygų mugei)] <sub>LT</sub>
 
