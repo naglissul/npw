@@ -7,9 +7,9 @@
   "tags": [
     {
       "inline": false,
-      "label": "General",
-      "permalink": "/blog/tags/general",
-      "description": "General"
+      "label": "Documenting life",
+      "permalink": "/blog/tags/docs",
+      "description": "Documenting what I have done or what I am planning to do"
     },
     {
       "inline": false,
@@ -23,7 +23,7 @@
   "authors": [],
   "frontMatter": {
     "tags": [
-      "general",
+      "docs",
       "en"
     ]
   },

@@ -105,12 +105,16 @@ export default {
           "title": "Socials",
           "items": [
             {
+              "label": "Facebook",
+              "href": "https://www.facebook.com/profile.php?id=100014978984368"
+            },
+            {
               "label": "Instagram",
               "href": "https://www.instagram.com/naglisaudrius/"
             },
             {
-              "label": "Skafis užduočių bankas",
-              "href": "https://bankas.skafis.lt/user/naglissul"
+              "label": "YouTube",
+              "href": "https://www.youtube.com/@naglisaudrius"
             }
           ]
         },
@@ -128,7 +132,7 @@ export default {
           ]
         }
       ],
-      "copyright": "© 2024 Naglis Šuliokas. v3.0.0 Last updated 2024-09-11"
+      "copyright": "© 2024 Naglis Šuliokas. v3.0.0 Last updated 2024-10-08"
     },
     "prism": {
       "theme": {

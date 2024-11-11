@@ -4,6 +4,12 @@ title: Home page
 
 # Home
 
+:::info
+
+Registracija į grupines 11 kl. matematikos pamokas (5 €): https://forms.gle/U96ZEkX4X3GPjM2v5
+
+:::
+
 Sorry for the mess, currently thinking on how to structure this thing. But you will find all the info you need here.
 
 🎵 Metronomy, Faux Real, Miki - Contact High 🎵

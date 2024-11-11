@@ -7,9 +7,9 @@
   "tags": [
     {
       "inline": false,
-      "label": "General",
-      "permalink": "/blog/tags/general",
-      "description": "General"
+      "label": "Learning theory",
+      "permalink": "/blog/tags/learn",
+      "description": "Learning theoretical things - Computer Science, Math, Physics etc."
     },
     {
       "inline": false,
@@ -23,7 +23,7 @@
   "authors": [],
   "frontMatter": {
     "tags": [
-      "general",
+      "learn",
       "en"
     ]
   },

@@ -16,8 +16,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "music/concert1",
+              "path": "/docs/music/concert1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "music/index",
               "path": "/docs/music/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "teach/book-of-everything",
+              "path": "/docs/teach/book-of-everything",
               "sidebar": "tutorialSidebar"
             },
             {

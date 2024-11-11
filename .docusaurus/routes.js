@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', '9fd'),
     exact: true
@@ -193,6 +228,16 @@ export default [
     exact: true
   },
   {
+    path: '/blog/tags/activities',
+    component: ComponentCreator('/blog/tags/activities', '9c9'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/docs',
+    component: ComponentCreator('/blog/tags/docs', '7b9'),
+    exact: true
+  },
+  {
     path: '/blog/tags/en',
     component: ComponentCreator('/blog/tags/en', '622'),
     exact: true
@@ -203,23 +248,23 @@ export default [
     exact: true
   },
   {
+    path: '/blog/tags/fiction',
+    component: ComponentCreator('/blog/tags/fiction', '02a'),
+    exact: true
+  },
+  {
     path: '/blog/tags/general',
-    component: ComponentCreator('/blog/tags/general', '3c8'),
+    component: ComponentCreator('/blog/tags/general', '59d'),
     exact: true
   },
   {
     path: '/blog/tags/general/page/2',
-    component: ComponentCreator('/blog/tags/general/page/2', '632'),
+    component: ComponentCreator('/blog/tags/general/page/2', '258'),
     exact: true
   },
   {
-    path: '/blog/tags/general/page/3',
-    component: ComponentCreator('/blog/tags/general/page/3', 'ac9'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/general/page/4',
-    component: ComponentCreator('/blog/tags/general/page/4', '198'),
+    path: '/blog/tags/learn',
+    component: ComponentCreator('/blog/tags/learn', 'cbc'),
     exact: true
   },
   {
@@ -234,15 +279,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ad8'),
+    component: ComponentCreator('/docs', '927'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'a33'),
+        component: ComponentCreator('/docs', '5f5'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'e40'),
+            component: ComponentCreator('/docs', '144'),
             routes: [
               {
                 path: '/docs/code/',
@@ -257,8 +302,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/music/concert1',
+                component: ComponentCreator('/docs/music/concert1', '7f4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/teach/',
                 component: ComponentCreator('/docs/teach/', 'ce2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/teach/book-of-everything',
+                component: ComponentCreator('/docs/teach/book-of-everything', '963'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
