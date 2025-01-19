@@ -28,6 +28,10 @@
     ]
   },
   "unlisted": false,
+  "prevItem": {
+    "title": "Pennylane demos overview",
+    "permalink": "/blog/2024/11/13/qml"
+  },
   "nextItem": {
     "title": "Ideas left behind",
     "permalink": "/blog/2024/05/08/ideas-left-behind"

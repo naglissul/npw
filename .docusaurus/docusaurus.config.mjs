@@ -26,7 +26,13 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "./sidebars.ts"
+          "sidebarPath": "./sidebars.ts",
+          "remarkPlugins": [
+            null
+          ],
+          "rehypePlugins": [
+            null
+          ]
         },
         "blog": {
           "showReadingTime": true,
@@ -136,7 +142,7 @@ export default {
           ]
         }
       ],
-      "copyright": "© 2024 Naglis Šuliokas. v3.0.0 Last updated 2024-10-08"
+      "copyright": "© 2025 Naglis Šuliokas. v3.0.0 Last updated 2024-10-08"
     },
     "prism": {
       "theme": {

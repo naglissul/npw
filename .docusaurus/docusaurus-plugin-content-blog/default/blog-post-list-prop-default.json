@@ -2,6 +2,18 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Piano concert in Evry, France",
+      "permalink": "/blog/2024/12/04/piano-concert",
+      "unlisted": false,
+      "date": "2024-12-04T00:00:00.000Z"
+    },
+    {
+      "title": "Pennylane demos overview",
+      "permalink": "/blog/2024/11/13/qml",
+      "unlisted": false,
+      "date": "2024-11-13T00:00:00.000Z"
+    },
+    {
       "title": "Season \"3rd year of studies\" is closed",
       "permalink": "/blog/2024/06/20/season-3rd-year",
       "unlisted": false,
@@ -18,18 +30,6 @@
       "permalink": "/blog/2023/11/06/on-teaching",
       "unlisted": false,
       "date": "2023-11-06T00:00:00.000Z"
-    },
-    {
-      "title": "Het is genoeg.",
-      "permalink": "/blog/2023/10/05/het-is-genoeg",
-      "unlisted": false,
-      "date": "2023-10-05T00:00:00.000Z"
-    },
-    {
-      "title": "Pirmoji SS matematikos paskaita",
-      "permalink": "/blog/2023/09/10/first-ss-lecture",
-      "unlisted": false,
-      "date": "2023-09-10T00:00:00.000Z"
     }
   ]
 }

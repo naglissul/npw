@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '9fd'),
+    component: ComponentCreator('/blog', '34d'),
     exact: true
   },
   {
@@ -168,23 +168,33 @@ export default [
     exact: true
   },
   {
+    path: '/blog/2024/11/13/qml',
+    component: ComponentCreator('/blog/2024/11/13/qml', '653'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/12/04/piano-concert',
+    component: ComponentCreator('/blog/2024/12/04/piano-concert', '774'),
+    exact: true
+  },
+  {
     path: '/blog/archive',
     component: ComponentCreator('/blog/archive', '182'),
     exact: true
   },
   {
     path: '/blog/page/2',
-    component: ComponentCreator('/blog/page/2', '1cd'),
+    component: ComponentCreator('/blog/page/2', '1d2'),
     exact: true
   },
   {
     path: '/blog/page/3',
-    component: ComponentCreator('/blog/page/3', '1df'),
+    component: ComponentCreator('/blog/page/3', '3fc'),
     exact: true
   },
   {
     path: '/blog/page/4',
-    component: ComponentCreator('/blog/page/4', '6e0'),
+    component: ComponentCreator('/blog/page/4', 'd0f'),
     exact: true
   },
   {
@@ -194,7 +204,12 @@ export default [
   },
   {
     path: '/blog/tags/activities',
-    component: ComponentCreator('/blog/tags/activities', '9c9'),
+    component: ComponentCreator('/blog/tags/activities', '325'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/activities/page/2',
+    component: ComponentCreator('/blog/tags/activities/page/2', '9ff'),
     exact: true
   },
   {
@@ -204,12 +219,12 @@ export default [
   },
   {
     path: '/blog/tags/en',
-    component: ComponentCreator('/blog/tags/en', '622'),
+    component: ComponentCreator('/blog/tags/en', 'efb'),
     exact: true
   },
   {
     path: '/blog/tags/en/page/2',
-    component: ComponentCreator('/blog/tags/en/page/2', 'a47'),
+    component: ComponentCreator('/blog/tags/en/page/2', 'f52'),
     exact: true
   },
   {
@@ -229,7 +244,7 @@ export default [
   },
   {
     path: '/blog/tags/learn',
-    component: ComponentCreator('/blog/tags/learn', 'cbc'),
+    component: ComponentCreator('/blog/tags/learn', 'e25'),
     exact: true
   },
   {
@@ -244,15 +259,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '927'),
+    component: ComponentCreator('/docs', 'b80'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '5f5'),
+        component: ComponentCreator('/docs', '003'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '144'),
+            component: ComponentCreator('/docs', 'aaa'),
             routes: [
               {
                 path: '/docs/code/',
@@ -311,6 +326,12 @@ export default [
               {
                 path: '/docs/teach/cheatsheets/vectors',
                 component: ComponentCreator('/docs/teach/cheatsheets/vectors', '3fd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/teach/math-vbe-problem-summary-sheet',
+                component: ComponentCreator('/docs/teach/math-vbe-problem-summary-sheet', '942'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

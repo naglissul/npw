@@ -1,11 +1,17 @@
 {
-  "/blog-9fd": {
+  "/blog-34d": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "6c5d6ae2"
+      },
+      {
+        "content": "825171e4"
+      },
       {
         "content": "c8c7558c"
       },
@@ -29,12 +35,6 @@
       },
       {
         "content": "69fe4c86"
-      },
-      {
-        "content": "220f40be"
-      },
-      {
-        "content": "2d70acf7"
       }
     ],
     "__props": "c15d9823"
@@ -391,6 +391,28 @@
     "sidebar": "814f3328",
     "content": "63e62fc0"
   },
+  "/blog/2024/11/13/qml-653": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "bc240765"
+  },
+  "/blog/2024/12/04/piano-concert-774": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "2033c84a"
+  },
   "/blog/archive-182": {
     "__comp": "9e4087bc",
     "__context": {
@@ -398,13 +420,19 @@
     },
     "__props": "f81c1134"
   },
-  "/blog/page/2-1cd": {
+  "/blog/page/2-1d2": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "220f40be"
+      },
+      {
+        "content": "2d70acf7"
+      },
       {
         "content": "e6753747"
       },
@@ -428,23 +456,23 @@
       },
       {
         "content": "b55b3ab4"
-      },
-      {
-        "content": "4d9dd4e0"
-      },
-      {
-        "content": "d778da83"
       }
     ],
     "__props": "8ea09047"
   },
-  "/blog/page/3-1df": {
+  "/blog/page/3-3fc": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "4d9dd4e0"
+      },
+      {
+        "content": "d778da83"
+      },
       {
         "content": "8e56c9d3"
       },
@@ -468,23 +496,23 @@
       },
       {
         "content": "36c37e52"
-      },
-      {
-        "content": "83d91366"
-      },
-      {
-        "content": "93fb1831"
       }
     ],
     "__props": "18ffe98c"
   },
-  "/blog/page/4-6e0": {
+  "/blog/page/4-d0f": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "83d91366"
+      },
+      {
+        "content": "93fb1831"
+      },
       {
         "content": "426947b2"
       },
@@ -502,13 +530,16 @@
     "sidebar": "814f3328",
     "__props": "3a2db09e"
   },
-  "/blog/tags/activities-9c9": {
+  "/blog/tags/activities-325": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "6c5d6ae2"
+      },
       {
         "content": "b7032759"
       },
@@ -535,12 +566,22 @@
       },
       {
         "content": "5c6f2441"
-      },
+      }
+    ],
+    "__props": "63ef3e6a"
+  },
+  "/blog/tags/activities/page/2-9ff": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
       {
         "content": "e5564d96"
       }
     ],
-    "__props": "63ef3e6a"
+    "__props": "ab397140"
   },
   "/blog/tags/docs-7b9": {
     "__comp": "6875c492",
@@ -567,13 +608,19 @@
     ],
     "__props": "887798b8"
   },
-  "/blog/tags/en-622": {
+  "/blog/tags/en-efb": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "6c5d6ae2"
+      },
+      {
+        "content": "825171e4"
+      },
       {
         "content": "c8c7558c"
       },
@@ -597,23 +644,23 @@
       },
       {
         "content": "a86726f8"
-      },
-      {
-        "content": "36c37e52"
-      },
-      {
-        "content": "93fb1831"
       }
     ],
     "__props": "e61669d4"
   },
-  "/blog/tags/en/page/2-a47": {
+  "/blog/tags/en/page/2-f52": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "36c37e52"
+      },
+      {
+        "content": "93fb1831"
+      },
       {
         "content": "426947b2"
       },
@@ -695,13 +742,16 @@
     ],
     "__props": "d3b1a2bb"
   },
-  "/blog/tags/learn-cbc": {
+  "/blog/tags/learn-e25": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "825171e4"
+      },
       {
         "content": "8e224556"
       },
@@ -794,17 +844,17 @@
     ],
     "__props": "7f4d15cf"
   },
-  "/docs-927": {
+  "/docs-b80": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-5f5": {
+  "/docs-003": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-144": {
+  "/docs-aaa": {
     "__comp": "a94703ab"
   },
   "/docs/code/-1dc": {
@@ -846,6 +896,10 @@
   "/docs/teach/cheatsheets/vectors-3fd": {
     "__comp": "17896441",
     "content": "282c187a"
+  },
+  "/docs/teach/math-vbe-problem-summary-sheet-942": {
+    "__comp": "17896441",
+    "content": "4b640df4"
   },
   "/docs/teach/science-can-be-interesting-bc8": {
     "__comp": "17896441",

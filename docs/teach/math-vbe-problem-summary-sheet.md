@@ -10,9 +10,9 @@ Rasti $\cos\alpha$, $\tg\alpha$, žinant, kad $\sin\alpha = \frac35$ ir $\frac\p
 
 _Sprendimas_:
 
-$\cos\alpha = \pm\sqrt{1-\sin^2\alpha}=-\sqrt{1-\left(\frac35\right)^2} = -\frac35$,
+$\cos\alpha = \pm\sqrt {1-\sin^2\alpha}=-\sqrt {1-\left(\frac35\right)^2} = -\frac35 $,
 
-$+$ netinka, nes $\cos\alpha < 0 $, kai $\alpha \in II$.
+$\cos\alpha < 0 $, nes $\alpha \in II$.
 
 2. Redukcijos
 

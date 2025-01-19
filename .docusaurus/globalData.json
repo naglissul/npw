@@ -61,6 +61,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "teach/math-vbe-problem-summary-sheet",
+              "path": "/docs/teach/math-vbe-problem-summary-sheet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "teach/science-can-be-interesting",
               "path": "/docs/teach/science-can-be-interesting",
               "sidebar": "tutorialSidebar"
