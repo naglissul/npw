@@ -87,8 +87,8 @@ const config: Config = {
               href: "https://www.instagram.com/naglisaudrius/",
             },
             {
-              label: "YouTube",
-              href: "https://www.youtube.com/@naglisaudrius",
+              label: "TikTok",
+              href: "https://www.tiktok.com/@naglisaudrius",
             },
           ],
         },
@@ -96,8 +96,12 @@ const config: Config = {
           title: "More",
           items: [
             {
-              label: "Blog",
-              to: "/blog",
+              label: "Email",
+              to: "mailto:naglis.suliokas@gmail.com",
+            },
+            {
+              label: "YouTube",
+              href: "https://www.youtube.com/@naglisaudrius",
             },
             {
               label: "GitHub",

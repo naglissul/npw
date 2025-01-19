@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Teach
 
+> CHECK OUT THE [MATH PROBLEM SUMMARY SHEET](./math-vbe-problem-summary-sheet.md)! (in progress)
+
 ## Currently
 
 In between stuff + doing EdTech projects.

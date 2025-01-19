@@ -113,8 +113,8 @@ export default {
               "href": "https://www.instagram.com/naglisaudrius/"
             },
             {
-              "label": "YouTube",
-              "href": "https://www.youtube.com/@naglisaudrius"
+              "label": "TikTok",
+              "href": "https://www.tiktok.com/@naglisaudrius"
             }
           ]
         },
@@ -122,8 +122,12 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
+              "label": "Email",
+              "to": "mailto:naglis.suliokas@gmail.com"
+            },
+            {
+              "label": "YouTube",
+              "href": "https://www.youtube.com/@naglisaudrius"
             },
             {
               "label": "GitHub",

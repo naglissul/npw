@@ -6,6 +6,12 @@ title: Home page
 
 :::info
 
+Contacts in the footer
+
+:::
+
+:::info
+
 Registracija į grupines 11 kl. matematikos pamokas (5 €): https://forms.gle/U96ZEkX4X3GPjM2v5
 
 :::
