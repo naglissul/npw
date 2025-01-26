@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '9f8'),
+    component: ComponentCreator('/blog', '7b2'),
     exact: true
   },
   {
@@ -189,7 +189,7 @@ export default [
   },
   {
     path: '/blog/2025/01/24/verslas-tutorial',
-    component: ComponentCreator('/blog/2025/01/24/verslas-tutorial', '238'),
+    component: ComponentCreator('/blog/2025/01/24/verslas-tutorial', 'f9e'),
     exact: true
   },
   {
@@ -229,7 +229,7 @@ export default [
   },
   {
     path: '/blog/tags/docs',
-    component: ComponentCreator('/blog/tags/docs', 'd2e'),
+    component: ComponentCreator('/blog/tags/docs', '053'),
     exact: true
   },
   {
@@ -264,7 +264,7 @@ export default [
   },
   {
     path: '/blog/tags/lt',
-    component: ComponentCreator('/blog/tags/lt', 'b6f'),
+    component: ComponentCreator('/blog/tags/lt', '2fe'),
     exact: true
   },
   {
@@ -279,7 +279,7 @@ export default [
   },
   {
     path: '/blog/tags/theory',
-    component: ComponentCreator('/blog/tags/theory', 'd59'),
+    component: ComponentCreator('/blog/tags/theory', 'b07'),
     exact: true
   },
   {

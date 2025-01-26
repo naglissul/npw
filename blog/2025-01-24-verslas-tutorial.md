@@ -2,9 +2,7 @@
 tags: [lt, docs, theory]
 ---
 
-import { CommentSection, FirebaseProvider } from "docusaurus-comment-section";
-
-# Mokęsčiai ir verslumas I dalis (Darbo sutartis, Individualios veiklos pažyma, MB kūrimas)
+# Mokesčiai ir verslumas I dalis (Darbo sutartis, Individualios veiklos pažyma, MB kūrimas)
 
 Pasakosiu, ką išsiaiškinu apie verslo kūrimą Lietuvoje. Dalinuosi, nes užknisa, kai labai mažai informacijos internete, nes visgi čia Lietuvos dalykas ir negali pažiūrėti indiškų _tutorialų_ per YouTube. Mano verslas yra susijęs su matematikos mokymu ir programavimu.
 
@@ -99,16 +97,3 @@ Mokęsčiai:
    - dirbant MB (pvz. kaip vadovui) - MB juridinis asmuo iki kovo 31 dienos per Registrų centrą (deklaruojant kaip fizinis asmuo sumoki GPM).
 
 Čiau.
-
-export const firebaseConfig = {
-  apiKey: "AIzaSyB9pUE5p93eatRFG4ZAU1g88oYACDmxXC4",
-  authDomain: "npw-lt-8f4e9.firebaseapp.com",
-  projectId: "npw-lt-8f4e9",
-  storageBucket: "npw-lt-8f4e9.firebasestorage.app",
-  messagingSenderId: "497425222546",
-  appId: "1:497425222546:web:404e256e216f0337b44f4b",
-};
-
-<FirebaseProvider config={firebaseConfig}>
-  <CommentSection postId="my-post-1" isDefaultVerified={true} />
-</FirebaseProvider>
