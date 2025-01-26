@@ -2,6 +2,8 @@
 tags: [lt, docs, theory]
 ---
 
+import { CommentSection, FirebaseProvider } from "docusaurus-comment-section";
+
 # Mokęsčiai ir verslumas I dalis (Darbo sutartis, Individualios veiklos pažyma, MB kūrimas)
 
 Pasakosiu, ką išsiaiškinu apie verslo kūrimą Lietuvoje. Dalinuosi, nes užknisa, kai labai mažai informacijos internete, nes visgi čia Lietuvos dalykas ir negali pažiūrėti indiškų _tutorialų_ per YouTube. Mano verslas yra susijęs su matematikos mokymu ir programavimu.
@@ -28,9 +30,7 @@ Pirmiausia, niekam nerūpi kažkokie studentėliai, kurie užsidirbinėja porą 
 
 Taigi, pirmiausia reiktų atlikti _research_, kuris variantas įforminti gautus pinigus yra tau geriausias. Būna žmonės ima verslo liudijimą, ima individualios veiklos pažymą, steigia MB... Populiariausia, paprasčiausia ir pradedantiesiems mažiausiai mokesčių su individualios veiklos pažyma.
 
-Tuomet reikia gauti pačią pažymą. Jei konkrečiau - gauti numeriuką (pažymos nr.) iš Mano VMI sistemos. Korepetitoriavimui -
-
-> .....
+Tuomet reikia gauti pačią pažymą. Jei konkrečiau - gauti numeriuką (pažymos nr.) iš Mano VMI sistemos. Korepetitoriavimui - 855900 Kitas, niekur kitur nepriskirtas, švietimas.
 
 ![alt text](image-1.png)
 
@@ -99,3 +99,16 @@ Mokęsčiai:
    - dirbant MB (pvz. kaip vadovui) - MB juridinis asmuo iki kovo 31 dienos per Registrų centrą (deklaruojant kaip fizinis asmuo sumoki GPM).
 
 Čiau.
+
+export const firebaseConfig = {
+  apiKey: "AIzaSyB9pUE5p93eatRFG4ZAU1g88oYACDmxXC4",
+  authDomain: "npw-lt-8f4e9.firebaseapp.com",
+  projectId: "npw-lt-8f4e9",
+  storageBucket: "npw-lt-8f4e9.firebasestorage.app",
+  messagingSenderId: "497425222546",
+  appId: "1:497425222546:web:404e256e216f0337b44f4b",
+};
+
+<FirebaseProvider config={firebaseConfig}>
+  <CommentSection postId="my-post-1" isDefaultVerified={true} />
+</FirebaseProvider>

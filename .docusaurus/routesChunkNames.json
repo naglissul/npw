@@ -1,11 +1,20 @@
 {
-  "/blog-34d": {
+  "/blog-9f8": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "c38dffa0"
+      },
+      {
+        "content": "a400fc4e"
+      },
+      {
+        "content": "747dbed4"
+      },
       {
         "content": "6c5d6ae2"
       },
@@ -26,15 +35,6 @@
       },
       {
         "content": "b7032759"
-      },
-      {
-        "content": "d28cfc24"
-      },
-      {
-        "content": "68c7f5e4"
-      },
-      {
-        "content": "69fe4c86"
       }
     ],
     "__props": "c15d9823"
@@ -413,6 +413,39 @@
     "sidebar": "814f3328",
     "content": "2033c84a"
   },
+  "/blog/2025-01-...-mb-apskaita-6e3": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "ddae6e37"
+  },
+  "/blog/2025/01/24/bett-64f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "31dd607e"
+  },
+  "/blog/2025/01/24/verslas-tutorial-238": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "c3a2f84a"
+  },
   "/blog/archive-182": {
     "__comp": "9e4087bc",
     "__context": {
@@ -420,13 +453,22 @@
     },
     "__props": "f81c1134"
   },
-  "/blog/page/2-1d2": {
+  "/blog/page/2-4c2": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "d28cfc24"
+      },
+      {
+        "content": "68c7f5e4"
+      },
+      {
+        "content": "69fe4c86"
+      },
       {
         "content": "220f40be"
       },
@@ -447,7 +489,17 @@
       },
       {
         "content": "68d5e783"
-      },
+      }
+    ],
+    "__props": "8ea09047"
+  },
+  "/blog/page/3-658": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
       {
         "content": "a71ebdd6"
       },
@@ -456,17 +508,7 @@
       },
       {
         "content": "b55b3ab4"
-      }
-    ],
-    "__props": "8ea09047"
-  },
-  "/blog/page/3-3fc": {
-    "__comp": "a6aa9e1f",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
+      },
       {
         "content": "4d9dd4e0"
       },
@@ -487,7 +529,17 @@
       },
       {
         "content": "e11e0999"
-      },
+      }
+    ],
+    "__props": "18ffe98c"
+  },
+  "/blog/page/4-b02": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
       {
         "content": "8e224556"
       },
@@ -496,17 +548,7 @@
       },
       {
         "content": "36c37e52"
-      }
-    ],
-    "__props": "18ffe98c"
-  },
-  "/blog/page/4-d0f": {
-    "__comp": "a6aa9e1f",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
+      },
       {
         "content": "83d91366"
       },
@@ -530,13 +572,16 @@
     "sidebar": "814f3328",
     "__props": "3a2db09e"
   },
-  "/blog/tags/activities-325": {
+  "/blog/tags/activities-32b": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "a400fc4e"
+      },
       {
         "content": "6c5d6ae2"
       },
@@ -563,33 +608,39 @@
       },
       {
         "content": "8e56c9d3"
-      },
-      {
-        "content": "5c6f2441"
       }
     ],
     "__props": "63ef3e6a"
   },
-  "/blog/tags/activities/page/2-9ff": {
+  "/blog/tags/activities/page/2-3bb": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "5c6f2441"
+      },
       {
         "content": "e5564d96"
       }
     ],
     "__props": "ab397140"
   },
-  "/blog/tags/docs-7b9": {
+  "/blog/tags/docs-d2e": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "c38dffa0"
+      },
+      {
+        "content": "747dbed4"
+      },
       {
         "content": "c8c7558c"
       },
@@ -608,13 +659,16 @@
     ],
     "__props": "887798b8"
   },
-  "/blog/tags/en-efb": {
+  "/blog/tags/en-ef7": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "a400fc4e"
+      },
       {
         "content": "6c5d6ae2"
       },
@@ -641,20 +695,20 @@
       },
       {
         "content": "8e224556"
-      },
-      {
-        "content": "a86726f8"
       }
     ],
     "__props": "e61669d4"
   },
-  "/blog/tags/en/page/2-f52": {
+  "/blog/tags/en/page/2-af0": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "a86726f8"
+      },
       {
         "content": "36c37e52"
       },
@@ -764,13 +818,19 @@
     ],
     "__props": "538c4b0f"
   },
-  "/blog/tags/lt-160": {
+  "/blog/tags/lt-b6f": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "c38dffa0"
+      },
+      {
+        "content": "747dbed4"
+      },
       {
         "content": "b7032759"
       },
@@ -794,23 +854,23 @@
       },
       {
         "content": "70d1790d"
-      },
-      {
-        "content": "68d5e783"
-      },
-      {
-        "content": "a71ebdd6"
       }
     ],
     "__props": "127c96a5"
   },
-  "/blog/tags/lt/page/2-001": {
+  "/blog/tags/lt/page/2-ccf": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "68d5e783"
+      },
+      {
+        "content": "a71ebdd6"
+      },
       {
         "content": "d99f8c30"
       },
@@ -834,7 +894,17 @@
       },
       {
         "content": "bc5af9fb"
-      },
+      }
+    ],
+    "__props": "7f4d15cf"
+  },
+  "/blog/tags/lt/page/3-316": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
       {
         "content": "e11e0999"
       },
@@ -842,7 +912,23 @@
         "content": "83d91366"
       }
     ],
-    "__props": "7f4d15cf"
+    "__props": "60cc2c7f"
+  },
+  "/blog/tags/theory-d59": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "c38dffa0"
+      },
+      {
+        "content": "747dbed4"
+      }
+    ],
+    "__props": "a2641d82"
   },
   "/docs-b80": {
     "__comp": "5e95c892",

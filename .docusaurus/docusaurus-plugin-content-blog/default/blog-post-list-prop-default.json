@@ -2,6 +2,24 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Mokęsčiai ir verslumas II dalis (MB apskaita)",
+      "permalink": "/blog/2025-01-...-mb-apskaita",
+      "unlisted": false,
+      "date": "2025-01-24T12:09:44.000Z"
+    },
+    {
+      "title": "bett",
+      "permalink": "/blog/2025/01/24/bett",
+      "unlisted": false,
+      "date": "2025-01-24T00:00:00.000Z"
+    },
+    {
+      "title": "Mokęsčiai ir verslumas I dalis (Darbo sutartis, Individualios veiklos pažyma, MB kūrimas)",
+      "permalink": "/blog/2025/01/24/verslas-tutorial",
+      "unlisted": false,
+      "date": "2025-01-24T00:00:00.000Z"
+    },
+    {
       "title": "Piano concert in Evry, France",
       "permalink": "/blog/2024/12/04/piano-concert",
       "unlisted": false,
@@ -12,24 +30,6 @@
       "permalink": "/blog/2024/11/13/qml",
       "unlisted": false,
       "date": "2024-11-13T00:00:00.000Z"
-    },
-    {
-      "title": "Season \"3rd year of studies\" is closed",
-      "permalink": "/blog/2024/06/20/season-3rd-year",
-      "unlisted": false,
-      "date": "2024-06-20T00:00:00.000Z"
-    },
-    {
-      "title": "Ideas left behind",
-      "permalink": "/blog/2024/05/08/ideas-left-behind",
-      "unlisted": false,
-      "date": "2024-05-08T00:00:00.000Z"
-    },
-    {
-      "title": "On teaching",
-      "permalink": "/blog/2023/11/06/on-teaching",
-      "unlisted": false,
-      "date": "2023-11-06T00:00:00.000Z"
     }
   ]
 }
