@@ -2,13 +2,25 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "QuHack 2025 hackaton",
+      "permalink": "/blog/2025/02/02/quhack",
+      "unlisted": false,
+      "date": "2025-02-02T00:00:00.000Z"
+    },
+    {
+      "title": "My whole university experience",
+      "permalink": "/blog/2025/02/01/all-uni",
+      "unlisted": false,
+      "date": "2025-02-01T00:00:00.000Z"
+    },
+    {
       "title": "Mokesčiai ir verslumas II dalis (MB apskaita)",
       "permalink": "/blog/2025-01-...-mb-apskaita",
       "unlisted": false,
       "date": "2025-01-24T12:09:44.000Z"
     },
     {
-      "title": "bett",
+      "title": "Bett 2025 EdTech fair",
       "permalink": "/blog/2025/01/24/bett",
       "unlisted": false,
       "date": "2025-01-24T00:00:00.000Z"
@@ -18,18 +30,6 @@
       "permalink": "/blog/2025/01/24/verslas-tutorial",
       "unlisted": false,
       "date": "2025-01-24T00:00:00.000Z"
-    },
-    {
-      "title": "Piano concert in Evry, France",
-      "permalink": "/blog/2024/12/04/piano-concert",
-      "unlisted": false,
-      "date": "2024-12-04T00:00:00.000Z"
-    },
-    {
-      "title": "Pennylane demos overview",
-      "permalink": "/blog/2024/11/13/qml",
-      "unlisted": false,
-      "date": "2024-11-13T00:00:00.000Z"
     }
   ]
 }

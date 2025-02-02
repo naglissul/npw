@@ -28,6 +28,8 @@ const config: Config = {
           rehypePlugins: [require("rehype-katex")],
         },
         blog: {
+          remarkPlugins: [require("remark-math")],
+          rehypePlugins: [require("rehype-katex")],
           showReadingTime: true,
           feedOptions: {
             type: ["rss", "atom"],

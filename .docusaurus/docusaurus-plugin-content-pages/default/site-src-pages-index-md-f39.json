@@ -3,7 +3,7 @@
   "permalink": "/",
   "source": "@site/src/pages/index.md",
   "title": "Home page",
-  "description": "Contacts in the footer",
+  "description": "Latest blog posts:",
   "frontMatter": {
     "title": "Home page"
   },

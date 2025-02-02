@@ -6,13 +6,19 @@ title: Home page
 
 :::info
 
-Contacts in the footer
+Latest blog posts:
+
+- [QuHack 2025](/blog/2025/02/02/quhack)
+
+- [Bett 2025](/blog/2025/01/24/bett)
+
+- [Mokesčiai ir verslumas I dalis](/blog/2025/01/24/verslas-tutorial)
 
 :::
 
 :::info
 
-Registracija į grupines 11 kl. matematikos pamokas (5 €): https://forms.gle/U96ZEkX4X3GPjM2v5
+Contacts in the footer
 
 :::
 

@@ -35,6 +35,12 @@ export default {
           ]
         },
         "blog": {
+          "remarkPlugins": [
+            null
+          ],
+          "rehypePlugins": [
+            null
+          ],
           "showReadingTime": true,
           "feedOptions": {
             "type": [

@@ -20,7 +20,7 @@ Ir tuomet kai gauni pajamas, kiekvienų metų pradžioje (paprastai iki gegužė
 
 Tai čia naudojamasi sistema. Kas vyksta už tos sistemos užsklandos - pateikiama GPM311 deklaracija. Tai teoriškai galima ir ranka užpildyti GPM311 formos PDF dokumentą ir nusiųsti paštu VMI :D
 
-![alt text](image.png)
+![alt text](./2025-01-24-verslas-tutorial/image.png)
 
 ## Individualios veiklos pažyma (korepetitorius)
 
@@ -30,11 +30,11 @@ Taigi, pirmiausia reiktų atlikti _research_, kuris variantas įforminti gautus 
 
 Tuomet reikia gauti pačią pažymą. Jei konkrečiau - gauti numeriuką (pažymos nr.) iš Mano VMI sistemos. Korepetitoriavimui - 855900 Kitas, niekur kitur nepriskirtas, švietimas.
 
-![alt text](image-1.png)
+![alt text](./2025-01-24-verslas-tutorial/image-1.png)
 
 Tuomet yra superinė iAPS VMI sistema, kurioje galima išrašinėti sąskaitas faktūras, ir apskaita automatiškai bus pateikta VMI. T.y. pavasarį (deklaruojant pajamas) nereikės skaičiuoti, kiek buvo uždirbta, o tik reikės taip pat paspausti patvirtinimo mygtuką.
 
-![alt text](image-3.png)
+![alt text](./2025-01-24-verslas-tutorial/image-3.png)
 
 Čia pildoma sąskaita faktūra. Duodamas bet koks serijos kodas (_default_ ISAF) ir unikalus numeris (iš eilės paprastai rašoma). Nurodoma prekė/paslauga, jos kiekis ir kaina, galiausiai pateikiama apmokėjimo data. Tai šitie būtini duomenys. Galima, aišku, parašyti daugiau (pvz.: pirkėjui, šiuo atveju mokiniui, pateikti informaciją, už kokių dienų pamokas prašoma apmokėti, į kokią sąskaitą pervestin pinigus).
 
@@ -58,13 +58,13 @@ O dabar apie įkūrimą:
 
 4. Prisijungus prie Registrų Centro savitarnos su LT ID galima įsteigti MB. Steigiant nelabai yra skirtumas, ar bus tik vienas narys/vadovas, ar bus daugiau. Steigimas nelabai skiriasi. Nėra minimumo pradiniam įnašui, tai gali būti nors ir 1 euras. Bet, žinokit, nežinau ar po to nebus problemų didinant kapitalą iš savo lėšų (bandau dabar tai daryti). Visom tom dienom, per kiek laiko turi kažkas būti padaryta, sakyčiau rašykit arba 5 dienas, arba 30. Na, tai čia jau atitinkamai logiškai atsirink. Jei vienas esi tame MB, tai nu gi gal patvirtinsi savo paties prašymą :D Tai čia labiau jei kiti žmonės yra dar MB, arba žada būti. Taip pat, viską galima ateityje keisti - tačiau kainuos papildomai (apie 15 eurų).
 
-![alt text](image-4.png)
+![alt text](./2025-01-24-verslas-tutorial/image-4.png)
 
-![alt text](image-5.png)
+![alt text](./2025-01-24-verslas-tutorial/image-5.png)
 
-![alt text](image-6.png)
+![alt text](./2025-01-24-verslas-tutorial/image-6.png)
 
-![alt text](image-7.png)
+![alt text](./2025-01-24-verslas-tutorial/image-7.png)
 
 5. Pateikiamas prašymas registrų centrui. Čia reikės sumokėti 17,13 euro.
 
