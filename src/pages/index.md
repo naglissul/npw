@@ -6,6 +6,18 @@ title: Home page
 
 :::info
 
+7-8 kl. matematikos apžvalga (NMPP pasiruošimas):
+
+[YouTube](https://youtu.be/9b9aq7ysZvI)
+
+[MIRO board](https://miro.com/app/board/uXjVIbbkq3c=/)
+
+Arba rasite TikToke.
+
+:::
+
+:::info
+
 Latest blog posts:
 
 - [QuHack 2025](/blog/2025/02/02/quhack)
