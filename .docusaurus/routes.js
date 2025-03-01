@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '52b'),
+    component: ComponentCreator('/blog', 'b2c'),
     exact: true
   },
   {
@@ -203,23 +203,28 @@ export default [
     exact: true
   },
   {
+    path: '/blog/2025/02/08/nginx-ssl-tuto',
+    component: ComponentCreator('/blog/2025/02/08/nginx-ssl-tuto', '8d5'),
+    exact: true
+  },
+  {
     path: '/blog/archive',
     component: ComponentCreator('/blog/archive', '182'),
     exact: true
   },
   {
     path: '/blog/page/2',
-    component: ComponentCreator('/blog/page/2', '534'),
+    component: ComponentCreator('/blog/page/2', '407'),
     exact: true
   },
   {
     path: '/blog/page/3',
-    component: ComponentCreator('/blog/page/3', 'e79'),
+    component: ComponentCreator('/blog/page/3', 'a2f'),
     exact: true
   },
   {
     path: '/blog/page/4',
-    component: ComponentCreator('/blog/page/4', 'a7e'),
+    component: ComponentCreator('/blog/page/4', '79d'),
     exact: true
   },
   {
@@ -244,12 +249,12 @@ export default [
   },
   {
     path: '/blog/tags/en',
-    component: ComponentCreator('/blog/tags/en', '08d'),
+    component: ComponentCreator('/blog/tags/en', '30f'),
     exact: true
   },
   {
     path: '/blog/tags/en/page/2',
-    component: ComponentCreator('/blog/tags/en/page/2', '4fc'),
+    component: ComponentCreator('/blog/tags/en/page/2', 'b7d'),
     exact: true
   },
   {
@@ -269,7 +274,7 @@ export default [
   },
   {
     path: '/blog/tags/learn',
-    component: ComponentCreator('/blog/tags/learn', 'e25'),
+    component: ComponentCreator('/blog/tags/learn', '78a'),
     exact: true
   },
   {

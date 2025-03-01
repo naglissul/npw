@@ -3,7 +3,7 @@
   "permalink": "/",
   "source": "@site/src/pages/index.md",
   "title": "Home page",
-  "description": "Latest blog posts:",
+  "description": "Spotify playlist list here",
   "frontMatter": {
     "title": "Home page"
   },

@@ -4,6 +4,20 @@ sidebar_position: 4
 
 # Music
 
+## Finished Spotify playlists (play songs in order)
+
+[fermionic creation operators (collection)](https://open.spotify.com/playlist/33SmUAXm5GZohBal7Eo3ul?si=cbede633ef314f85)
+
+Your day was full of activities and you were really productive but you are still energetic and rushing to live and to experience the deepest corners of your emotions
+
+[Hartree energy unit (collection)](https://open.spotify.com/playlist/0FYv2nyoE1gGeAxCA8Jl8L?si=acf8a316850c4229)
+
+Everything's so great, the life is flowing and you just need a story with some movement
+
+[what a good day it was (collection)](https://open.spotify.com/playlist/4IUDYQppTxjk2dYEPUzTpo?si=79d2db5107c941e9)
+
+After a really good day you are listening to some music on a bus when going home and exhaling deeply with a smile
+
 ## Currently
 
 Nothing's happening. Just listening to a lot of music which you can find in my spotify playlists. Later gonna record more of my compositions and write music sheets...

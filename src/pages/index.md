@@ -6,13 +6,19 @@ title: Home page
 
 :::info
 
-7-8 kl. matematikos apžvalga (NMPP pasiruošimas):
+Spotify playlist list [here](/docs/music/)
 
-[YouTube](https://youtu.be/9b9aq7ysZvI)
+:::
 
-[MIRO board](https://miro.com/app/board/uXjVIbbkq3c=/)
+:::warning
 
-Arba rasite TikToke.
+vbesort.lt laikinai neveikė dėl išnaudotų nemokamų limitų (per daug lankytojų)
+
+Jei ateityje irgi neveiks tinklapis, mėginkite kitus adresus:
+
+- https://www.vbesort.lt
+- https://vbesort.web.app
+- https://vbesort2.web.app
 
 :::
 
@@ -25,6 +31,18 @@ Latest blog posts:
 - [Bett 2025](/blog/2025/01/24/bett)
 
 - [Mokesčiai ir verslumas I dalis](/blog/2025/01/24/verslas-tutorial)
+
+:::
+
+:::info
+
+7-8 kl. matematikos apžvalga (NMPP pasiruošimas):
+
+[YouTube](https://youtu.be/9b9aq7ysZvI)
+
+[MIRO board](https://miro.com/app/board/uXjVIbbkq3c=/)
+
+Arba rasite TikToke.
 
 :::
 

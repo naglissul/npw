@@ -2,6 +2,12 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Deployment: linux server, nginx, SSL, docker, react",
+      "permalink": "/blog/2025/02/08/nginx-ssl-tuto",
+      "unlisted": false,
+      "date": "2025-02-08T00:00:00.000Z"
+    },
+    {
       "title": "QuHack 2025 hackaton",
       "permalink": "/blog/2025/02/02/quhack",
       "unlisted": false,
@@ -22,12 +28,6 @@
     {
       "title": "Bett 2025 EdTech fair",
       "permalink": "/blog/2025/01/24/bett",
-      "unlisted": false,
-      "date": "2025-01-24T00:00:00.000Z"
-    },
-    {
-      "title": "Mokesčiai ir verslumas I dalis (Darbo sutartis, Individualios veiklos pažyma, MB kūrimas)",
-      "permalink": "/blog/2025/01/24/verslas-tutorial",
       "unlisted": false,
       "date": "2025-01-24T00:00:00.000Z"
     }

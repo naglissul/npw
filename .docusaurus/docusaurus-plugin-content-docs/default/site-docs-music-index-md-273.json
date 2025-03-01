@@ -1,7 +1,7 @@
 {
   "id": "music/index",
   "title": "Music",
-  "description": "Currently",
+  "description": "Finished Spotify playlists (play songs in order)",
   "source": "@site/docs/music/index.md",
   "sourceDirName": "music",
   "slug": "/music/",
