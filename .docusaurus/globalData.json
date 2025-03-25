@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "code/md-math-editor-tutorial/index",
+              "path": "/docs/code/md-math-editor-tutorial/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "music/concert1",
               "path": "/docs/music/concert1",
               "sidebar": "tutorialSidebar"

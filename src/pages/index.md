@@ -6,6 +6,13 @@ title: Home page
 
 :::info
 
+In progress 9-10 kl. matematikos turinys PUPP pasiruošimui: [MIRO board](https://miro.com/app/board/uXjVIXtefYI=/)
+
+Tiktoko live miro board 03-04: [link](https://miro.com/app/board/uXjVIWeX0-E=/?share_link_id=334646440153)
+:::
+
+:::info
+
 Spotify playlist list [here](/docs/music/)
 
 :::

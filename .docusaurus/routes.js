@@ -299,19 +299,25 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b80'),
+    component: ComponentCreator('/docs', '905'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '003'),
+        component: ComponentCreator('/docs', '6d3'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'aaa'),
+            component: ComponentCreator('/docs', 'c49'),
             routes: [
               {
                 path: '/docs/code/',
                 component: ComponentCreator('/docs/code/', '1dc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/code/md-math-editor-tutorial/',
+                component: ComponentCreator('/docs/code/md-math-editor-tutorial/', '0d8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Rašymas",
-    "permalink": "/docs/write/"
+    "title": "Editor guide",
+    "permalink": "/docs/code/md-math-editor-tutorial/"
   }
 }
