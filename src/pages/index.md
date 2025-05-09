@@ -6,6 +6,12 @@ title: Home page
 
 :::info
 
+Programavimo mentorystes-praktikos informacija ir aplikacija: https://forms.gle/Z7krzb4vJStFhnaq6
+
+:::
+
+:::info
+
 In progress 9-10 kl. matematikos turinys PUPP pasiruošimui: [MIRO board](https://miro.com/app/board/uXjVIXtefYI=/)
 
 Tiktoko live miro board 03-04: [link](https://miro.com/app/board/uXjVIWeX0-E=/?share_link_id=334646440153)
@@ -68,6 +74,8 @@ Sorry for the mess, currently thinking on how to structure this thing. But you w
 _... portfolio-like website/blog, to have all the things, I want to share, categorized in one place. Mostly the WRITING. Also, languages are mixed here... I'm gonna use subscripts to mark other than English languages. Navigation is in the header. Good luck surfin' around!_
 
 ## Featured
+
+[PApristatymas](PApristatymasNaglis.pdf)
 
 ### [Mokslo gildija] <sub>LT</sub>
 
