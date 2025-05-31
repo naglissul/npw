@@ -6,6 +6,14 @@ title: Home page
 
 :::info
 
+- [CV (English)](CV.pdf)
+- [Pedagogikos baigiamasis darbas (Lithuanian)](https://virtualibiblioteka.vu.lt/permalink/370LABT_VU/14n863t/alma9913135881108452)
+- [Programų sistemų baigiamasis darbas (English)](./ŠuliokasNaglis2025.pdf)
+
+:::
+
+:::info
+
 Programavimo mentorystes-praktikos informacija ir aplikacija: https://forms.gle/Z7krzb4vJStFhnaq6
 
 :::
