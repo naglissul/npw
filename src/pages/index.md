@@ -6,11 +6,20 @@ title: Home page
 
 :::info
 
+VBE II dalies atsakymai iškart po egzo penktadienį!!! (per 20-30 min)
+
+https://www.simtukas.lt/vbeatsakymai
+
+:::
+
+:::info
+
 - [CV (English)](CV.pdf)
 - [Pedagogikos baigiamasis darbas (Lithuanian)](https://virtualibiblioteka.vu.lt/permalink/370LABT_VU/14n863t/alma9913135881108452)
 - [Programų sistemų baigiamasis darbas (English)](./ŠuliokasNaglis2025.pdf)
-
-:::
+- [Programų sistemų baigiamasis darbas. Gynimo skaidrės (English)](./slides.pdf)
+- [Programų sistemų baigiamasis darbas. Gynimo skaidrės (Lithuanian)](./slides_lt.pdf)
+  :::
 
 :::info
 
