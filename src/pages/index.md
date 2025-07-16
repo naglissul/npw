@@ -6,9 +6,17 @@ title: Home page
 
 :::info
 
-VBE II dalies atsakymai iškart po egzo penktadienį!!! (per 20-30 min)
+Apmokama programavimo praktika vasarai. Registracijos forma:
 
-https://www.simtukas.lt/vbeatsakymai
+https://forms.gle/joaJrLJHw8Zic9x58
+
+:::
+
+:::info
+
+Autoriaus tinklapis - skaitykite ir užsirašykite į laukimo eilę :))
+
+https://www.audriusraso.lt
 
 :::
 
@@ -23,12 +31,6 @@ https://www.simtukas.lt/vbeatsakymai
 
 :::info
 
-Programavimo mentorystes-praktikos informacija ir aplikacija: https://forms.gle/Z7krzb4vJStFhnaq6
-
-:::
-
-:::info
-
 In progress 9-10 kl. matematikos turinys PUPP pasiruošimui: [MIRO board](https://miro.com/app/board/uXjVIXtefYI=/)
 
 Tiktoko live miro board 03-04: [link](https://miro.com/app/board/uXjVIWeX0-E=/?share_link_id=334646440153)
@@ -37,18 +39,6 @@ Tiktoko live miro board 03-04: [link](https://miro.com/app/board/uXjVIWeX0-E=/?s
 :::info
 
 Spotify playlist list [here](/docs/music/)
-
-:::
-
-:::warning
-
-vbesort.lt laikinai neveikė dėl išnaudotų nemokamų limitų (per daug lankytojų)
-
-Jei ateityje irgi neveiks tinklapis, mėginkite kitus adresus:
-
-- https://www.vbesort.lt
-- https://vbesort.web.app
-- https://vbesort2.web.app
 
 :::
 
