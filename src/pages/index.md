@@ -6,15 +6,15 @@ title: Home page
 
 :::info
 
-Apmokama programavimo praktika vasarai. Registracijos forma:
+Informacija ir registracija į matematikos kursus 9-12 kl. (simtukas.lt):
 
-https://forms.gle/joaJrLJHw8Zic9x58
+https://forms.gle/DpM2B4PMo1EEv8QJ9
 
 :::
 
 :::info
 
-Autoriaus tinklapis - skaitykite ir užsirašykite į laukimo eilę :))
+Autoriaus tinklapis - skaitykite ir užsirašykite į laukimo eilę :)) WIP
 
 https://www.audriusraso.lt
 
