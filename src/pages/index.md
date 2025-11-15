@@ -14,6 +14,16 @@ https://forms.gle/DpM2B4PMo1EEv8QJ9
 
 :::info
 
+Quantum Computing tutorial | Part 1: Quantum gates, superposition, entanglement, superdense coding
+
+https://youtu.be/X_dUOrwb3Fc
+
+Whiteboard: [yt-1.png](yt-1.png)
+
+---
+
+:::info
+
 Autoriaus tinklapis - skaitykite ir užsirašykite į laukimo eilę :)) WIP
 
 https://www.audriusraso.lt
