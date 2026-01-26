@@ -148,7 +148,7 @@ export default {
           ]
         }
       ],
-      "copyright": "© 2025 Naglis Šuliokas. v3.0.0 Last updated 2024-10-08"
+      "copyright": "© 2026 Naglis Šuliokas. v3.0.0 Last updated 2024-10-08"
     },
     "prism": {
       "theme": {

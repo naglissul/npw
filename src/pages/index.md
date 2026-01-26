@@ -20,6 +20,20 @@ https://youtu.be/X_dUOrwb3Fc
 
 Whiteboard: [yt-1.png](yt-1.png)
 
+Quantum Computing tutorial | Part 2.1: Mixed states for Quantum Information Theory
+
+https://youtu.be/We9Bd2mSVHc
+
+Whiteboard: [yt-2.1.png](yt-2.1.png)
+
+Quantum Computing tutorial | Part 2.2: Norms and Codes for Quantum Information Theory
+
+https://youtu.be/CpgRGqm-G88
+
+Whiteboard: [yt-2.2-norms.png](yt-2.2-norms.png), [yt-2.2-codes.png](yt-2.2-codes.png)
+
+:::
+
 ---
 
 :::info
