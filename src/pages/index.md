@@ -6,6 +6,18 @@ title: Home page
 
 :::info
 
+9-10kl. matematikos apžvalga (PUPP pasiruošimas):
+
+[YouTube](https://youtu.be/08l6rByppO0)
+
+[MIRO board](https://miro.com/app/board/uXjVJmHhtFQ=/)
+
+Arba tiesiog rasite visas nuorodas [vbesort.lt](https://www.vbesort.lt)
+
+:::
+
+:::info
+
 Informacija ir registracija į matematikos kursus 9-12 kl. (simtukas.lt):
 
 https://forms.gle/DpM2B4PMo1EEv8QJ9
