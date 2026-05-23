@@ -6,21 +6,11 @@ title: Home page
 
 :::info
 
-9-10kl. matematikos apžvalga (PUPP pasiruošimas):
+Intensyvus Matematikos Kartojimas prieš VBE (11-12 kl.) - veda Aleksejus Kurilčik
 
-[YouTube](https://youtu.be/08l6rByppO0)
+[Tvarkaraštis PDF](IMK-VBE-tvarkarastis.pdf)
 
-[MIRO board](https://miro.com/app/board/uXjVJmHhtFQ=/)
-
-Arba tiesiog rasite visas nuorodas [vbesort.lt](https://www.vbesort.lt)
-
-:::
-
-:::info
-
-Informacija ir registracija į matematikos kursus 9-12 kl. (simtukas.lt):
-
-https://forms.gle/DpM2B4PMo1EEv8QJ9
+[YouTube nuoroda](bit.ly/imkvbe)
 
 :::
 
