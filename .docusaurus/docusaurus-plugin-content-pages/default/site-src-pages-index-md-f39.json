@@ -3,7 +3,7 @@
   "permalink": "/",
   "source": "@site/src/pages/index.md",
   "title": "Home page",
-  "description": "12 kl. matematikos kurso kartojimas (veda Aleksejus Kurilčik)",
+  "description": "Vos po matematikos egzaminų (per 30 min) čia skelbiami preliminarūs atsakymai:",
   "frontMatter": {
     "title": "Home page"
   },

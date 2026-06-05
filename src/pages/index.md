@@ -6,11 +6,51 @@ title: Home page
 
 :::info
 
+Vos po matematikos egzaminų (per 30 min) čia skelbiami preliminarūs atsakymai:
+
+[simtukas.lt/vbe-atsakymai](https://www.simtukas.lt/vbe-atsakymai)
+
+:::
+
+:::info
+
+Viso 11 kl. matematikos turinio apžvalga pagal BUP:
+
+[YouTube](https://youtu.be/asJErn12nRU)
+
+[PDF](https://drive.google.com/file/d/1biOk9ORheDV4CwdaAdkDg08nU0xGlcCm/view?usp=sharing)
+
+Viso 12 kl. matematikos turinio apžvalga pagal BUP:
+
+[YouTube](https://youtu.be/SmkG_wNiIXU)
+
+[PDF](https://drive.google.com/file/d/1lmo2k_IZEioqdY33otDHrTnxrYqT4fBd/view?usp=sharing)
+
+:::
+
+:::info
+
 Intensyvus Matematikos Kartojimas prieš VBE (11-12 kl.) - veda Aleksejus Kurilčik
 
 [Tvarkaraštis PDF](IMK-VBE-tvarkarastis.pdf)
 
-[YouTube nuoroda](bit.ly/imkvbe)
+[YouTube nuoroda](https://bit.ly/imkvbe)
+
+:::
+
+:::info
+
+Dėl matematikos pamokų 9-12 kl. rašykite čia:
+
+[m.me/simtukas](https://m.me/simtukas)
+
+:::
+
+:::info
+
+11-12 kl. matematikos programa (VBE egzaminų turinys)
+
+https://emokykla.lt/bendrosios-programos/visos-bendrosios-programos/5?types=7&ct=6
 
 :::
 
