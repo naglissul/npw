@@ -6,51 +6,41 @@ title: Home page
 
 :::info
 
-Vos po matematikos egzaminų (per 30 min) čia skelbiami preliminarūs atsakymai:
-
-[simtukas.lt/vbe-atsakymai](https://www.simtukas.lt/vbe-atsakymai)
-
-:::
-
-:::info
-
-Viso 11 kl. matematikos turinio apžvalga pagal BUP:
-
-[YouTube](https://youtu.be/asJErn12nRU)
-
-[PDF](https://drive.google.com/file/d/1biOk9ORheDV4CwdaAdkDg08nU0xGlcCm/view?usp=sharing)
-
-Viso 12 kl. matematikos turinio apžvalga pagal BUP:
-
-[YouTube](https://youtu.be/SmkG_wNiIXU)
-
-[PDF](https://drive.google.com/file/d/1lmo2k_IZEioqdY33otDHrTnxrYqT4fBd/view?usp=sharing)
-
-:::
-
-:::info
-
-Intensyvus Matematikos Kartojimas prieš VBE (11-12 kl.) - veda Aleksejus Kurilčik
-
-[Tvarkaraštis PDF](IMK-VBE-tvarkarastis.pdf)
-
-[YouTube nuoroda](https://bit.ly/imkvbe)
-
-:::
-
-:::info
-
-Dėl matematikos pamokų 9-12 kl. rašykite čia:
+Dėl matematikos pamokų 8–12 kl. [Šimtuke](https://www.simtukas.lt) rašykite į Messenger'į čia:
 
 [m.me/simtukas](https://m.me/simtukas)
 
+Teikiame individualizuotą mokymą, garantuojame pagerėjusius rezultatus! Ankstesnių mokinių rezultatų pavyzdžius galite matyti [simtukas.lt](https://www.simtukas.lt) tinklapyje. Atsiliepimų galite paskaityti ir čia: https://paslaugos.lt/aleksejus-kurilcik-am1341
+
 :::
 
 :::info
 
-11-12 kl. matematikos programa (VBE egzaminų turinys)
+Ieškome 8–12 kl. matematikos mokytojo [Šimtuke](https://www.simtukas.lt).
 
-https://emokykla.lt/bendrosios-programos/visos-bendrosios-programos/5?types=7&ct=6
+Darbas nuotoliu, pagal individualią veiklą, 15–30 € per valandą, 12–40 valandų per savaitę (po mokyklos pamokų bei savaitgaliais, lankstus grafikas). Individualizuotos pamokos (3–4 mokiniai pamokoje, su kiekvienu mokomasi individualiai), mokytojams vedami įvadiniai mokymai, supažindinama su mokymo metodika.
+
+**Lūkesčiai**: puikiai žinoti mokyklinę matematiką, mokėti dirbti su paaugliais ir (arba) vaikais, gebėti puikiai komunikuoti.
+
+Turint savų privačių mokinių suteiktume palankias sąlygas pereiti į Šimtuką.
+
+**Kodėl mes?** Mūsų komanda ne tik teikia ypatingą dėmesį individualizuotui mokymui, kuris žymiai pagerina mokinių egzaminų rezultatus, bet ir kuria atvirtus projektus, skirtus gerinti Lietuvos švietimą (tokius, kaip atviri mokymosi kursai [IMK VBE](https://www.youtube.com/playlist?list=PLxxa59yhoOf-bmgtjtbC_4ZznEgfPf5Ni) ir [IMK PUPP](https://youtube.com/playlist?list=PLxxa59yhoOf90ic_KdtV6BTI2aNI8XW1V), vbesort.lt pakeitęs atviras užduočių bankas [uzduotys.simtukas.lt](https://uzduotys.simtukas.lt))
+
+Užpildykite šią formą: https://forms.gle/J4Z4fARop3fguC3F8
+
+Arba siųskite CV šiuo el paštu: info@simtukas.lt
+
+Arba rašykite į Messenger'į: https://m.me/simtukas
+
+Taip pat kviečiame rekomenduoti pažįstamus mokytojus!
+
+:::
+
+:::info
+
+Čia rasite 7–12 kl. viso matematikos turinio apžvalgos nuorodas:
+
+https://www.pagalprograma.lt/matematikos-bup-informacija
 
 :::
 
